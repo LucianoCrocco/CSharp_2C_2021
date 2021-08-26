@@ -1,0 +1,16 @@
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.exe
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.deps.json
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.runtimeconfig.json
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.dll
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\ref\Ejercicio 1.dll
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.pdb
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.dll
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\ref\Ejercicio 1.dll
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.pdb
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Programacion-Laboratorio 2\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.csproj.AssemblyReference.cache
