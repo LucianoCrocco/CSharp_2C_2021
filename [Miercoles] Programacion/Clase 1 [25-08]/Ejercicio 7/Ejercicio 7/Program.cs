@@ -55,12 +55,12 @@ namespace Ejercicio_7
             Console.Write($"{today}");
 
             anioDateTime = (today.Year - anio) * 365 ;
-            mesDateTime = (today.Month - mes) * 30;
-            diaDateTime = (today.Day - dia);
+            mesDateTime = mes * 30 - today.Month * 30;
+            diaDateTime = dia - today.Day;
 
             diasVividos = anioDateTime + mesDateTime + diaDateTime;
 
-            Console.Write($"Usted vivio un total de: {diasVividos} dias");
+            Console.Write($"\n\nUsted vivio un total de: {diasVividos} dias");
 
 
 
