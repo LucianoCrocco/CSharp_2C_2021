@@ -1,0 +1,5 @@
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.csproj.CoreCompileInputs.cache
