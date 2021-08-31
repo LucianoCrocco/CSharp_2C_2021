@@ -17,9 +17,10 @@ namespace Ejercicio_11
             int numeroIngresado;
             int min = -100;
             int max = 100;
-            int minimoIngresado;
-            int maximoIngresado;
-            int promedio;
+            int minimoIngresado = 0;
+            int maximoIngresado = 0;
+            int acumulador = 0;
+            int promedio = 0;
 
             for(int i = 0; i < cantidad; i++)
             {
@@ -38,7 +39,27 @@ namespace Ejercicio_11
                 {
                     Console.WriteLine($"El numero ingresado {numeroIngresado} se encuentra DENTRO del rango\n");
                 }
+
+                if(i== 0)
+                {
+                    minimoIngresado = numeroIngresado;
+                    maximoIngresado = numeroIngresado;
+                } else
+                {
+                    if(minimoIngresado > numeroIngresado)
+                    {
+                        minimoIngresado = numeroIngresado;
+                    } else if (maximoIngresado < numeroIngresado)
+                    {
+                        maximoIngresado = numeroIngresado;
+                    }
+                }
+                acumulador += numeroIngresado;
+
             }
+            promedio = acumulador / cantidad;
+            Console.Write($"El maximo ingresado fue: {maximoIngresado}, el minimo: {minimoIngresado} y el promedio {promedio}");
+            Console.ReadKey();
         }   
     }
 }

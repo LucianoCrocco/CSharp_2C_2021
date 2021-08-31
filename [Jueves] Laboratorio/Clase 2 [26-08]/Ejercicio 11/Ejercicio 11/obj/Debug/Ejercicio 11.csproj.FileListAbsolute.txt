@@ -8,3 +8,13 @@ C:\Users\Lucia\source\repos\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.csp
 C:\Users\Lucia\source\repos\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CopyComplete
 C:\Users\Lucia\source\repos\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.exe
 C:\Users\Lucia\source\repos\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 2 [26-08]\Ejercicio 11\Ejercicio 11\bin\Debug\Ejercicio 11.exe.config
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 2 [26-08]\Ejercicio 11\Ejercicio 11\bin\Debug\Ejercicio 11.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 2 [26-08]\Ejercicio 11\Ejercicio 11\bin\Debug\Ejercicio 11.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 2 [26-08]\Ejercicio 11\Ejercicio 11\bin\Debug\ClassLibrary1.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 2 [26-08]\Ejercicio 11\Ejercicio 11\bin\Debug\ClassLibrary1.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 2 [26-08]\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 2 [26-08]\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 2 [26-08]\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 2 [26-08]\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 2 [26-08]\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.pdb

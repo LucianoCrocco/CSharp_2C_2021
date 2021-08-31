@@ -1,0 +1,4 @@
+No se pueden poner dos clases dentro de un proyecto, tampoco dos namespaces dentro de un proyecto.
+Un namespace, una clase, un archivo.
+El namespace se tiene que llamar igual al archivo, lo mismo para la clase.
+(Se genera un .cs para la clase y un proyecto para el namespace(Biblioteca de clases))
