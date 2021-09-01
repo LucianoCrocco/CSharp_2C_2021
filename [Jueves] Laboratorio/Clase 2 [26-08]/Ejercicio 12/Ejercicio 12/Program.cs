@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Biblioteca_Clases;
+using BibliotecaClases;
 
 namespace Ejercicio_12
 {
@@ -36,7 +36,7 @@ namespace Ejercicio_12
                 }
 
 
-            } while (Biblioteca_Clases.ValidarRespuesta.ValidarS_N(seguir));
+            } while (BibliotecaClases.ValidarRespuesta.ValidarS_N(seguir));
             Console.Write($"La suma de todos los numeros ingresados es: {acumulador}");
             Console.ReadKey();
         }
