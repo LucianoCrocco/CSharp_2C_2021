@@ -1,6 +1,0 @@
-C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\bin\Debug\Clases_Validacion.dll
-C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\bin\Debug\Clases_Validacion.pdb
-C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.AssemblyReference.cache
-C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
-C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\Clases_Validacion.dll
-C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\Clases_Validacion.pdb

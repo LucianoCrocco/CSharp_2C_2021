@@ -1,0 +1,11 @@
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\bin\Debug\net5.0\BibliotecaClases.deps.json
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\bin\Debug\net5.0\BibliotecaClases.dll
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\bin\Debug\net5.0\ref\BibliotecaClases.dll
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\bin\Debug\net5.0\BibliotecaClases.pdb
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\net5.0\BibliotecaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\net5.0\BibliotecaClases.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\net5.0\BibliotecaClases.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\net5.0\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\net5.0\BibliotecaClases.dll
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\net5.0\ref\BibliotecaClases.dll
+C:\Users\Lucia\source\repos\Ejercicio 12\BibliotecaClases\obj\Debug\net5.0\BibliotecaClases.pdb

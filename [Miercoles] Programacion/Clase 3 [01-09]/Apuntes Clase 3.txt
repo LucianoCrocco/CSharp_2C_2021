@@ -1,0 +1,23 @@
+La vista la separamos de la logica.
+
+Vista = Consola, menu, label, formulario, etc.
+Logica = Sistema, clases personas, alumnos, etc. Se van a separar en minimo un proyecto de bibliotecas. PROHIBIDO los Console.Write, Console.Read, nada de entrada de texto.
+
+1 Proyecto de entidades o nombres similar (logica). Y otro para la consola (vista)
+
+STATIC Es un modificador que permite ejecutar un método sin tener que instanciar una variable (sin crear un objeto) -> Verdadero
+
+El metodo read lee el siguiente caracter.
+
+Metodos = Funciones de C.
+Atributos = Por ejemplo de una clase instanciada de Persona.cs = DNI, Nombre, Apellido, etc
+
+La palabra reservada new reserva memoria, lo utilizamos para los objetos.
+
+Los objetos son marcos que comparten las mismas caracteristicas.
+
+El constructor estatico se ejecuta una sola vez en la primera intervencion que tenga esa clase. Primero va al constructor estatico y luego al de instancia.
+
+Averiguar bien para que funcionan los constructores estaticos.
+
+this es una palabra reserva que hace referencia a la instancia del objeto con la que trabajamos en el momento.

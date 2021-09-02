@@ -1,0 +1,19 @@
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\obj\Debug\net5.0\Ejercicio 16.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\obj\Debug\net5.0\Ejercicio 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\obj\Debug\net5.0\Ejercicio 16.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\obj\Debug\net5.0\Ejercicio 16.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\obj\Debug\net5.0\Ejercicio 16.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\bin\Debug\net5.0\Ejercicio 16.exe
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\bin\Debug\net5.0\Ejercicio 16.deps.json
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\bin\Debug\net5.0\Ejercicio 16.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\bin\Debug\net5.0\Ejercicio 16.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\bin\Debug\net5.0\Ejercicio 16.dll
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\bin\Debug\net5.0\ref\Ejercicio 16.dll
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\bin\Debug\net5.0\Ejercicio 16.pdb
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\obj\Debug\net5.0\Ejercicio 16.csproj.CopyComplete
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\obj\Debug\net5.0\Ejercicio 16.dll
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\obj\Debug\net5.0\ref\Ejercicio 16.dll
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\obj\Debug\net5.0\Ejercicio 16.pdb
+C:\Users\Lucia\source\repos\Ejercicio 16\Ejercicio 16\obj\Debug\net5.0\Ejercicio 16.genruntimeconfig.cache

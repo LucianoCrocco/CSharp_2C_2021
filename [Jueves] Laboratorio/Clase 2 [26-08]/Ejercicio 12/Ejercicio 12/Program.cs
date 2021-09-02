@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using BibliotecaClases;
 
@@ -20,16 +16,16 @@ namespace Ejercicio_12
             {
                 Console.Write("Ingrese un numero: ");
                 ingreso = Console.ReadLine();
-                while(int.TryParse(ingreso, out numeroIngresado) == false)
+                while (int.TryParse(ingreso, out numeroIngresado) == false)
                 {
                     Console.Write("Error... Ingrese un NUMERO: ");
                     ingreso = Console.ReadLine();
                 }
                 acumulador += numeroIngresado;
-                
+
                 Console.Write("Si desea seguir ingresando numeros presione 'S', de lo contrario ingrese cualquier otra tecla: ");
                 ingreso = Console.ReadLine();
-                while(char.TryParse(ingreso, out seguir) == false)
+                while (char.TryParse(ingreso, out seguir) == false)
                 {
                     Console.Write("Error, ingrese solo UN CARACTER... Si desea seguir ingresando numeros presione 'S', de lo contrario ingrese cualquier otra tecla: ");
                     ingreso = Console.ReadLine();

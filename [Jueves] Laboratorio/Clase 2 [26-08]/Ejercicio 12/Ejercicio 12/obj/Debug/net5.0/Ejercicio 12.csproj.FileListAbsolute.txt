@@ -1,0 +1,19 @@
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.exe
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.deps.json
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.dll
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\bin\Debug\net5.0\ref\Ejercicio 12.dll
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.pdb
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\bin\Debug\net5.0\BibliotecaClases.dll
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\bin\Debug\net5.0\BibliotecaClases.pdb
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.csproj.CopyComplete
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.dll
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\obj\Debug\net5.0\ref\Ejercicio 12.dll
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.pdb
+C:\Users\Lucia\source\repos\Ejercicio 12\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.genruntimeconfig.cache

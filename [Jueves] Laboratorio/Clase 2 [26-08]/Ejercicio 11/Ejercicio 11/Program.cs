@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using ClassLibrary1;
 
@@ -22,7 +18,7 @@ namespace Ejercicio_11
             int acumulador = 0;
             int promedio = 0;
 
-            for(int i = 0; i < cantidad; i++)
+            for (int i = 0; i < cantidad; i++)
             {
                 Console.Write($"Ingrese un numero dentro del rango permitido -> MINIMO: {min} MAXIMO: {max}: ");
                 ingreso = Console.ReadLine();
@@ -35,21 +31,24 @@ namespace Ejercicio_11
                 if (Validacion.Validar(numeroIngresado, min, max) == false)
                 {
                     Console.WriteLine($"El numero ingresado {numeroIngresado} se encuentra fuera del rango -> MINIMO: {min} MAXIMO: {max}\n");
-                }  else
+                }
+                else
                 {
                     Console.WriteLine($"El numero ingresado {numeroIngresado} se encuentra DENTRO del rango\n");
                 }
 
-                if(i== 0)
+                if (i == 0)
                 {
                     minimoIngresado = numeroIngresado;
                     maximoIngresado = numeroIngresado;
-                } else
+                }
+                else
                 {
-                    if(minimoIngresado > numeroIngresado)
+                    if (minimoIngresado > numeroIngresado)
                     {
                         minimoIngresado = numeroIngresado;
-                    } else if (maximoIngresado < numeroIngresado)
+                    }
+                    else if (maximoIngresado < numeroIngresado)
                     {
                         maximoIngresado = numeroIngresado;
                     }
@@ -60,6 +59,6 @@ namespace Ejercicio_11
             promedio = acumulador / cantidad;
             Console.Write($"El maximo ingresado fue: {maximoIngresado}, el minimo: {minimoIngresado} y el promedio {promedio}");
             Console.ReadKey();
-        }   
+        }
     }
 }
