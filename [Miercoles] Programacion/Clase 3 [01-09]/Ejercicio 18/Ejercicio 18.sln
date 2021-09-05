@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 18", "Ejercicio 18\Ejercicio 18.csproj", "{6815C59A-E9C6-4A1B-9360-2716E34AFA4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 18", "Ejercicio 18\Ejercicio 18.csproj", "{6815C59A-E9C6-4A1B-9360-2716E34AFA4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{05E2155B-DAB3-469B-8CEB-7EA7DD89E11F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometria", "Entidades\Geometria.csproj", "{05E2155B-DAB3-469B-8CEB-7EA7DD89E11F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

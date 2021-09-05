@@ -1,0 +1,19 @@
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\obj\Debug\net5.0\Ejercicio 18.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\obj\Debug\net5.0\Ejercicio 18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\obj\Debug\net5.0\Ejercicio 18.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\obj\Debug\net5.0\Ejercicio 18.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\obj\Debug\net5.0\Ejercicio 18.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\bin\Debug\net5.0\Ejercicio 18.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\bin\Debug\net5.0\Ejercicio 18.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\bin\Debug\net5.0\Ejercicio 18.runtimeconfig.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\bin\Debug\net5.0\Ejercicio 18.runtimeconfig.dev.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\bin\Debug\net5.0\Ejercicio 18.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\bin\Debug\net5.0\ref\Ejercicio 18.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\bin\Debug\net5.0\Ejercicio 18.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\bin\Debug\net5.0\Geometria.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\bin\Debug\net5.0\Geometria.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\obj\Debug\net5.0\Ejercicio 18.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\obj\Debug\net5.0\Ejercicio 18.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\obj\Debug\net5.0\ref\Ejercicio 18.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\obj\Debug\net5.0\Ejercicio 18.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Ejercicio 18\obj\Debug\net5.0\Ejercicio 18.genruntimeconfig.cache

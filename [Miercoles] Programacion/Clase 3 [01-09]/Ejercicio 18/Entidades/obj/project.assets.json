@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 18\\Entidades\\Entidades.csproj",
-      "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 18\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\Geometria.csproj",
+      "projectName": "Geometria",
+      "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\Geometria.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 18\\Entidades\\obj\\",
+      "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

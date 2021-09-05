@@ -1,0 +1,12 @@
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\obj\Debug\net5.0\Geometria.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\obj\Debug\net5.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\obj\Debug\net5.0\Geometria.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\obj\Debug\net5.0\Geometria.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\obj\Debug\net5.0\Geometria.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\bin\Debug\net5.0\Geometria.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\bin\Debug\net5.0\Geometria.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\bin\Debug\net5.0\ref\Geometria.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\bin\Debug\net5.0\Geometria.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\obj\Debug\net5.0\Geometria.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\obj\Debug\net5.0\ref\Geometria.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 3 [01-09]\Ejercicio 18\Entidades\obj\Debug\net5.0\Geometria.pdb

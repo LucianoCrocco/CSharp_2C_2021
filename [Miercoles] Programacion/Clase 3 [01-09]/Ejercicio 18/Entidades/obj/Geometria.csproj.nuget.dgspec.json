@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\Entidades.csproj": {}
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\Geometria.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\Entidades.csproj": {
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\Geometria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\Entidades.csproj",
-        "projectName": "Entidades",
-        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\Geometria.csproj",
+        "projectName": "Geometria",
+        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\Geometria.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
         "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 3 [01-09]\\Ejercicio 18\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
