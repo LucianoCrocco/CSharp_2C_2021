@@ -17,7 +17,7 @@ namespace BibliotecaClases
         {
             double retorno;
 
-            retorno = x * y;
+            retorno = x * y / 2;
 
             return retorno;
         }
