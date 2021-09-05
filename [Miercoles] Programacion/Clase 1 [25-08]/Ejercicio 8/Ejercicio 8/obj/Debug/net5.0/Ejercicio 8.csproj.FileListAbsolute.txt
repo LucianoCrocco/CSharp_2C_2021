@@ -3,3 +3,14 @@ D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Cla
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.AssemblyInfoInputs.cache
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.AssemblyInfo.cs
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\bin\Debug\net5.0\Ejercicio 8.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\bin\Debug\net5.0\Ejercicio 8.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\bin\Debug\net5.0\Ejercicio 8.runtimeconfig.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\bin\Debug\net5.0\Ejercicio 8.runtimeconfig.dev.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\bin\Debug\net5.0\Ejercicio 8.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\bin\Debug\net5.0\ref\Ejercicio 8.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\bin\Debug\net5.0\Ejercicio 8.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\ref\Ejercicio 8.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 8\Ejercicio 8\obj\Debug\net5.0\Ejercicio 8.genruntimeconfig.cache

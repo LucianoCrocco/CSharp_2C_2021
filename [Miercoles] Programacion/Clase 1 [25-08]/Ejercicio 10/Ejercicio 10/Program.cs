@@ -9,9 +9,11 @@ namespace Ejercicio_10
             Console.Title = "Ejercicio 10";
 
             string ingreso;
+            string espacios;
             int altura;
             char caracter = '*';
             int acumulador = 1;
+            int acumuladorEspacios = 1;
 
             Console.Write("Ingrese la altura de la piramide a imprimir (La altura debe ser mayor a 0): ");
             ingreso = Console.ReadLine();
@@ -22,20 +24,23 @@ namespace Ejercicio_10
                 ingreso = Console.ReadLine();
             }
 
+            acumuladorEspacios = altura;
             for (int i = 0; i < altura; i++)
             {
-                if (i == 0)
+                if(i == 0){
+                    espacios = new String(' ', acumuladorEspacios);
+                    Console.Write($"{espacios}{caracter}");
+                } else
                 {
-                    Console.Write($"{caracter}");
-                }
-                else
-                {
+                    acumuladorEspacios -= 1;
                     acumulador += 2;
-                    for (int j = 0; j < acumulador; j++)
+                    for(int j = 0; j < acumulador; j++)
                     {
-                        if (j == 0 && i != 0)
+                        if(j== 0 && i != 0)
                         {
                             Console.Write("\n");
+                            espacios = new String(' ', acumuladorEspacios);
+                            Console.Write($"{espacios}");
                         }
                         Console.Write($"{caracter}");
                     }
@@ -44,3 +49,27 @@ namespace Ejercicio_10
         }
     }
 }
+
+
+//for (int i = 0; i < altura; i++)
+//{
+//    if (i == 0)
+//    {
+//        espacios = new String(' ', acumuladorEspacios);
+//        Console.Write($"{espacios}{caracter}");
+//    }
+//    else
+//    {
+//        acumuladorEspacios += 1;
+//        acumulador += 2;
+//        for (int j = 0; j < acumulador; j++)
+//        {
+//            if (j == 0 && i != 0)
+//            {
+//                Console.Write("\n");
+//                espacios = new String(' ', acumuladorEspacios);
+//                Console.Write($"{espacios}");
+//            }
+//            Console.Write($"{caracter}");
+//        }
+//    }

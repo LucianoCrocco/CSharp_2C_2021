@@ -8,6 +8,7 @@ namespace Ejercicio_11
     {
         static void Main(string[] args)
         {
+            Console.Title = "Ejercicio 11";
             string ingreso;
             int cantidad = 10;
             int numeroIngresado;

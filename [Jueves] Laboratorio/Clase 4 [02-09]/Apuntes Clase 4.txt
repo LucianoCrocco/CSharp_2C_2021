@@ -1,0 +1,34 @@
+Que es una clase?
+Es una clasificación en base a comportamientos y atributos comunes.
+Es una abstracción de un objeto. Es una plantilla.
+
+
+Pilares de POO
+Herencia.
+Polimorfismo.
+Abstracción.
+Encapsulamiento.
+
+
+Como esta compuesta la firma de una clase?
+[modificador] class Identificador
+
+Marque las respuestas correctas sobre los modificadores de visibilidad:
+Public: Accesible desde cualquier proyecto.
+Internal: Accesible desde el mismo proyecto.
+Private: Sólo accesible desde la clase.
+Protected: Sólo accesible desde la clase o derivadas.
+
+
+Que es el Namespace?
+Es una agrupación lógica de clases y otros elementos.
+
+
+Una clase declara como abstract...
+Indica que la clase no podrá instanciarse.
+
+
+Un método declarado como static...
+Indica que es un método de clase. Se invoca desde su misma clase, sin que haga falta generar instancias, no brinda accesibilidad.
+
+

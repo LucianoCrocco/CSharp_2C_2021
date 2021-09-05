@@ -1,0 +1,19 @@
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\bin\Debug\net5.0\Ejemplo Clase 4.exe
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\bin\Debug\net5.0\Ejemplo Clase 4.deps.json
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\bin\Debug\net5.0\Ejemplo Clase 4.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\bin\Debug\net5.0\Ejemplo Clase 4.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\bin\Debug\net5.0\Ejemplo Clase 4.dll
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\bin\Debug\net5.0\ref\Ejemplo Clase 4.dll
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\bin\Debug\net5.0\Ejemplo Clase 4.pdb
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\obj\Debug\net5.0\Ejemplo Clase 4.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\obj\Debug\net5.0\Ejemplo Clase 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\obj\Debug\net5.0\Ejemplo Clase 4.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\obj\Debug\net5.0\Ejemplo Clase 4.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\obj\Debug\net5.0\Ejemplo Clase 4.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\obj\Debug\net5.0\Ejemplo Clase 4.csproj.CopyComplete
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\obj\Debug\net5.0\Ejemplo Clase 4.dll
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\obj\Debug\net5.0\ref\Ejemplo Clase 4.dll
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\obj\Debug\net5.0\Ejemplo Clase 4.pdb
+C:\Users\Lucia\source\repos\Ejemplo Clase 4\Ejemplo Clase 4\obj\Debug\net5.0\Ejemplo Clase 4.genruntimeconfig.cache

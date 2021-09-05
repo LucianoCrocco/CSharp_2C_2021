@@ -4,6 +4,7 @@ namespace Entidades
 {
     public class Alumno
     {
+       
         private int nota1;
         private int nota2;
         private int notaFinal;

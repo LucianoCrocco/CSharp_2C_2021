@@ -7,6 +7,7 @@ namespace Ejercicio_16
     {
         static void Main(string[] args)
         {
+            Console.Title = "Ejercicio 16";
             Alumno a1 = new Alumno("Juan Pablo", "Fulano", 1500);
             Alumno a2 = new Alumno("Ricardo", "De Perez", 1000);
             string mensaje;

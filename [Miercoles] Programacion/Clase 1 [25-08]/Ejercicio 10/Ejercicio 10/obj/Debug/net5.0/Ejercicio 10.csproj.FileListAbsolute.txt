@@ -1,0 +1,16 @@
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\bin\Debug\net5.0\Ejercicio 10.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\bin\Debug\net5.0\Ejercicio 10.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\bin\Debug\net5.0\Ejercicio 10.runtimeconfig.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\bin\Debug\net5.0\Ejercicio 10.runtimeconfig.dev.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\bin\Debug\net5.0\Ejercicio 10.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\bin\Debug\net5.0\ref\Ejercicio 10.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\bin\Debug\net5.0\Ejercicio 10.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\obj\Debug\net5.0\Ejercicio 10.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\obj\Debug\net5.0\Ejercicio 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\obj\Debug\net5.0\Ejercicio 10.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\obj\Debug\net5.0\Ejercicio 10.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\obj\Debug\net5.0\Ejercicio 10.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\obj\Debug\net5.0\Ejercicio 10.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\obj\Debug\net5.0\ref\Ejercicio 10.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\obj\Debug\net5.0\Ejercicio 10.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 1 [25-08]\Ejercicio 10\Ejercicio 10\obj\Debug\net5.0\Ejercicio 10.genruntimeconfig.cache

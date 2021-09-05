@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio 17/1.0.0": {
+        "dependencies": {
+          "BibliotecaBoligrafo": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio 17.dll": {}
+        }
+      },
+      "BibliotecaBoligrafo/1.0.0": {
+        "runtime": {
+          "BibliotecaBoligrafo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio 17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaBoligrafo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

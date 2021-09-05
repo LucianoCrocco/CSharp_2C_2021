@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\Ejercicio 12\\Ejercicio 12.csproj": {}
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\Ejercicio 12\\Ejercicio 12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\BibliotecaClases\\BibliotecaClases.csproj": {
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\BibliotecaClases\\BibliotecaClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\BibliotecaClases\\BibliotecaClases.csproj",
+        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\BibliotecaClases\\BibliotecaClases.csproj",
         "projectName": "BibliotecaClases",
-        "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\BibliotecaClases\\BibliotecaClases.csproj",
+        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\BibliotecaClases\\BibliotecaClases.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\BibliotecaClases\\obj\\",
+        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\BibliotecaClases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\Ejercicio 12\\Ejercicio 12.csproj": {
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\Ejercicio 12\\Ejercicio 12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\Ejercicio 12\\Ejercicio 12.csproj",
+        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\Ejercicio 12\\Ejercicio 12.csproj",
         "projectName": "Ejercicio 12",
-        "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\Ejercicio 12\\Ejercicio 12.csproj",
+        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\Ejercicio 12\\Ejercicio 12.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\Ejercicio 12\\obj\\",
+        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\Ejercicio 12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\BibliotecaClases\\BibliotecaClases.csproj": {
-                "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 12\\BibliotecaClases\\BibliotecaClases.csproj"
+              "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\BibliotecaClases\\BibliotecaClases.csproj": {
+                "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 2 [26-08]\\Ejercicio 12\\BibliotecaClases\\BibliotecaClases.csproj"
               }
             }
           }
