@@ -18,6 +18,9 @@ namespace Ejercicio_19
             Console.WriteLine(s1 | s3);
             Console.WriteLine(s1 + s3);
 
+            Console.WriteLine(s1.Sumar("Hola", " Mundo"));
+            Console.WriteLine(s2.Sumar("Hola", " Chicos"));
+            Console.WriteLine(s3.Sumar((int)s1, (int)s2));
         }
     }
 }
