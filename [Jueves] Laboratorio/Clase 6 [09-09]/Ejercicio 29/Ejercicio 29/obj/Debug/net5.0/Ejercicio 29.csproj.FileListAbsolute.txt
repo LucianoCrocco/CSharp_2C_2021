@@ -1,0 +1,19 @@
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.exe
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.deps.json
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.dll
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\ref\Ejercicio 29.dll
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.pdb
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.dll
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\ref\Ejercicio 29.dll
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.pdb
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.genruntimeconfig.cache
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.csproj.CopyComplete
