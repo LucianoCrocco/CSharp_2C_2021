@@ -19,3 +19,24 @@ C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\E
 C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Entidades.dll
 C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Entidades.pdb
 C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.runtimeconfig.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.runtimeconfig.dev.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\ref\Ejercicio 24.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Entidades.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Entidades.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio_24.Conversor_Temperatura.resources
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.csproj.GenerateResource.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\ref\Ejercicio 24.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.genruntimeconfig.cache

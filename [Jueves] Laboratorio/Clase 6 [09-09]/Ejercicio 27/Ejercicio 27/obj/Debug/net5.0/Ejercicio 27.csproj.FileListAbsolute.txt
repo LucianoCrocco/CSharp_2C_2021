@@ -14,3 +14,19 @@ C:\Users\Lucia\source\repos\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio
 C:\Users\Lucia\source\repos\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\ref\Ejercicio 27.dll
 C:\Users\Lucia\source\repos\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio 27.pdb
 C:\Users\Lucia\source\repos\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio 27.genruntimeconfig.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\bin\Debug\net5.0\Ejercicio 27.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\bin\Debug\net5.0\Ejercicio 27.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\bin\Debug\net5.0\Ejercicio 27.runtimeconfig.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\bin\Debug\net5.0\Ejercicio 27.runtimeconfig.dev.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\bin\Debug\net5.0\Ejercicio 27.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\bin\Debug\net5.0\ref\Ejercicio 27.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\bin\Debug\net5.0\Ejercicio 27.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio 27.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio 27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio 27.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio 27.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio 27.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio 27.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\ref\Ejercicio 27.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio 27.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 27\Ejercicio 27\obj\Debug\net5.0\Ejercicio 27.genruntimeconfig.cache

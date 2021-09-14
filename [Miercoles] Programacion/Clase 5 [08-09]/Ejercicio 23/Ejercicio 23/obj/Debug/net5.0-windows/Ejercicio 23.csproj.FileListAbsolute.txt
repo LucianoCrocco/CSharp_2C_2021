@@ -20,3 +20,25 @@ C:\Users\Lucia\source\repos\Ejercicio 23\Ejercicio 23\bin\Debug\net5.0-windows\E
 C:\Users\Lucia\source\repos\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio_23.Properties.Resources.resources
 C:\Users\Lucia\source\repos\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.csproj.CopyComplete
 C:\Users\Lucia\source\repos\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio_23.Conversor.resources
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\bin\Debug\net5.0-windows\Ejercicio 23.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\bin\Debug\net5.0-windows\Ejercicio 23.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\bin\Debug\net5.0-windows\Ejercicio 23.runtimeconfig.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\bin\Debug\net5.0-windows\Ejercicio 23.runtimeconfig.dev.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\bin\Debug\net5.0-windows\Ejercicio 23.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\bin\Debug\net5.0-windows\ref\Ejercicio 23.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\bin\Debug\net5.0-windows\Ejercicio 23.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\bin\Debug\net5.0-windows\Entidades.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\bin\Debug\net5.0-windows\Entidades.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio_23.Conversor.resources
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio_23.Properties.Resources.resources
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.csproj.GenerateResource.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\ref\Ejercicio 23.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 5 [08-09]\Ejercicio 23\Ejercicio 23\obj\Debug\net5.0-windows\Ejercicio 23.genruntimeconfig.cache

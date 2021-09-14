@@ -244,6 +244,7 @@ namespace Ejercicio_24
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(891, 212);
             this.Controls.Add(this.txtKelvin);
             this.Controls.Add(this.txtKelvinACelsius);

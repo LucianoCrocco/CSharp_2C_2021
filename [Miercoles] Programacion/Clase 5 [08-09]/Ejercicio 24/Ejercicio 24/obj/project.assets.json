@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 24\\Ejercicio 24\\Ejercicio 24.csproj",
+      "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 5 [08-09]\\Ejercicio 24\\Ejercicio 24\\Ejercicio 24.csproj",
       "projectName": "Ejercicio 24",
-      "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 24\\Ejercicio 24\\Ejercicio 24.csproj",
+      "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 5 [08-09]\\Ejercicio 24\\Ejercicio 24\\Ejercicio 24.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 24\\Ejercicio 24\\obj\\",
+      "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 5 [08-09]\\Ejercicio 24\\Ejercicio 24\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Lucia\\source\\repos\\Ejercicio 24\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 24\\Entidades\\Entidades.csproj"
+            "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 5 [08-09]\\Ejercicio 24\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 5 [08-09]\\Ejercicio 24\\Entidades\\Entidades.csproj"
             }
           }
         }
