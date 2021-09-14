@@ -64,6 +64,9 @@ namespace Ejercicio_28
                         tercerContador = palabra.Value;
                         tercerContador++;
                         topPalabaras.Insert(2, palabra.Key);
+                    } else
+                    {
+                        topPalabaras.Add(palabra.Key);
                     }
                 }
 
