@@ -1,0 +1,21 @@
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio_24.Conversor_Temperatura.resources
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.csproj.GenerateResource.cache
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.exe
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.deps.json
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.dll
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\ref\Ejercicio 24.dll
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Ejercicio 24.pdb
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.dll
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\ref\Ejercicio 24.dll
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.pdb
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.genruntimeconfig.cache
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Lucia\source\repos\Ejercicio 24\Ejercicio 24\obj\Debug\net5.0-windows\Ejercicio 24.csproj.CopyComplete
