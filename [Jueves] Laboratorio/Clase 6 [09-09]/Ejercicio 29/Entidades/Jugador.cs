@@ -5,14 +5,15 @@ namespace Entidades
 {
     public class Jugador
     {
-        //Atributos
+        #region Atributos
         private int dni;
         private string nombre;
         private int partidosJugados;
         private float promedioGoles;
         private int totalGoles;
+        #endregion
 
-        //Constructores
+        #region Constructores
         private Jugador()
         {
             this.partidosJugados = 0;
@@ -20,31 +21,33 @@ namespace Entidades
             this.totalGoles = 0;
         }
 
-        public Jugador (int dni, string nombre)
+        public Jugador(int dni, string nombre)
             : this()
         {
             this.dni = dni;
             this.nombre = nombre;
         }
-        
-        public Jugador(int dni, string nombre, int totalGoles, int totalPartidos) 
+
+        public Jugador(int dni, string nombre, int totalGoles, int totalPartidos)
             : this(dni, nombre)
         {
             this.totalGoles = totalGoles;
             this.partidosJugados = totalPartidos;
         }
+        #endregion
 
-        //Getters
+        #region Getters
         public float GetPromedioGoles()
         {
-            if(this.totalGoles == 0)
+            if (this.totalGoles == 0)
             {
                 return 0;
             }
             return this.partidosJugados / this.totalGoles;
         }
+        #endregion
 
-        //Metodos
+        #region Metodos
 
         public string mostrarDatos()
         {
@@ -59,8 +62,9 @@ namespace Entidades
             //return retorno;
             return sb.ToString();//Otra manera de hacerlo con String Builder.
         }
+        #endregion
 
-        //Sobrecarga de Operadores
+        #region Sobrecarga de Operadores
         public static bool operator ==(Jugador j1, Jugador j2)
         {
             if (j1.dni == j2.dni)
@@ -74,5 +78,6 @@ namespace Entidades
         {
             return !(j1 == j2);
         }
+        #endregion
     }
 }

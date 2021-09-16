@@ -17,3 +17,22 @@ C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio
 C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Entidades.dll
 C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Entidades.pdb
 C:\Users\Lucia\source\repos\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.runtimeconfig.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.runtimeconfig.dev.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\ref\Ejercicio 29.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Ejercicio 29.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Entidades.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\bin\Debug\net5.0\Entidades.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\ref\Ejercicio 29.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 6 [09-09]\Ejercicio 29\Ejercicio 29\obj\Debug\net5.0\Ejercicio 29.genruntimeconfig.cache

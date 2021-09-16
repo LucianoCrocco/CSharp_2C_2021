@@ -7,34 +7,36 @@ using System.Threading.Tasks;
 namespace Entidades
 {
     public class Equipo
-    {   
-        //Atributo
+    {
+        #region Atributos
         private short cantidadDeJugadores;
         private List<Jugador> jugadores;
         private string nombre;
+        #endregion
 
-        //Constructores
+        # region Constructores
         private Equipo()
         {
             //List<Jugador> jugadores = new List<Jugador>(); MAL, se debe inicializar com se hizo abajo
             jugadores = new List<Jugador>(); //Inicializacion.
         }
 
-        public Equipo(short cantidad, string nombre) 
+        public Equipo(short cantidad, string nombre)
             : this()
         {
             this.nombre = nombre;
             this.cantidadDeJugadores = cantidad;
         }
+        #endregion
 
-        //Sobrecarga de Operadores
+        #region Sobrecarga de Operadores
         public static bool operator +(Equipo e, Jugador j)
         {
-            if(e.jugadores.Count() < e.cantidadDeJugadores)
+            if (e.jugadores.Count() < e.cantidadDeJugadores)
             {
-                foreach(Jugador jugador in e.jugadores)
+                foreach (Jugador jugador in e.jugadores)
                 {
-                    if(jugador == j)
+                    if (jugador == j)
                     {
                         return false;
                     }
@@ -44,5 +46,6 @@ namespace Entidades
             }
             return false;
         }
+        #endregion
     }
 }

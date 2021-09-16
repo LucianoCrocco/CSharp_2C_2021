@@ -16,9 +16,9 @@ namespace Entidades
         //Constructores
         public AutoF1(short numero, string escuderia)
         {
-            enCompetencia = false;
-            cantidadCombustible = 0;
-            vueltasRestantes = 0;
+            this.enCompetencia = false;
+            this.cantidadCombustible = 0;
+            this.vueltasRestantes = 0;
             this.numero = numero;
             this.escuderia = escuderia;
         }

@@ -49,3 +49,8 @@ C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
 C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
 C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
 C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\Ejercicios Extra\Ejemplos Primer Parcial\2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\Ejercicios Extra\Ejemplos Primer Parcial\2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\Ejercicios Extra\Ejemplos Primer Parcial\2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\Ejercicios Extra\Ejemplos Primer Parcial\2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\Ejercicios Extra\Ejemplos Primer Parcial\2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache

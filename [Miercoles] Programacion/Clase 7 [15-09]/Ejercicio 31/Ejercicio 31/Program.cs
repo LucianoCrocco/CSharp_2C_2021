@@ -25,7 +25,6 @@ namespace Ejercicio_31
             Console.WriteLine(negocio + c2);
             Console.WriteLine(negocio + c3);
             Console.WriteLine(negocio + c4);
-
             //Verifico que existan esos clientes en la cola
             Console.WriteLine("\tVerifico que existan esos clientes en la cola");
             Cliente c5 = new Cliente("Rigoberto", 5);

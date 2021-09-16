@@ -25,12 +25,12 @@ namespace Ejercicio_30
             Console.WriteLine(competencia + a6);
 
             Console.WriteLine(competencia.MostrarDatos());
-            Console.WriteLine(a1.MostrarDatos());
-            Console.WriteLine(a2.MostrarDatos());
-            Console.WriteLine(a3.MostrarDatos());
-            Console.WriteLine(a4.MostrarDatos());
-            Console.WriteLine(a5.MostrarDatos());
-            Console.WriteLine(a6.MostrarDatos());
+            //Console.WriteLine(a1.MostrarDatos());
+            //Console.WriteLine(a2.MostrarDatos());
+            //Console.WriteLine(a3.MostrarDatos());
+            //Console.WriteLine(a4.MostrarDatos());
+            //Console.WriteLine(a5.MostrarDatos());
+            //Console.WriteLine(a6.MostrarDatos());
 
 
         }

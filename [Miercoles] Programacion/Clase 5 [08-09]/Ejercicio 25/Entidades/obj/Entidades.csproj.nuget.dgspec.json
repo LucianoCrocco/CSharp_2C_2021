@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucia\\source\\repos\\Ejercicio 25\\Entidades\\Entidades.csproj": {}
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 5 [08-09]\\Ejercicio 25\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucia\\source\\repos\\Ejercicio 25\\Entidades\\Entidades.csproj": {
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 5 [08-09]\\Ejercicio 25\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 25\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 5 [08-09]\\Ejercicio 25\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 25\\Entidades\\Entidades.csproj",
+        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 5 [08-09]\\Ejercicio 25\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 25\\Entidades\\obj\\",
+        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 5 [08-09]\\Ejercicio 25\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -16,7 +16,7 @@ namespace Entidades
         //Constructores
         private Competencia()
         {
-            competidores = new List<AutoF1>();
+            this.competidores = new List<AutoF1>();
         }
         public Competencia(short cantidadVueltas, short cantidadCompetidores) 
             : this()
@@ -28,11 +28,14 @@ namespace Entidades
         //Sobrecarga de Operadores
         public static bool operator ==(Competencia c, AutoF1 a)
         {
-            foreach(AutoF1 auto in c.competidores)
+            if(c.competidores.Count > 0)
             {
-                if(auto == a)
+                foreach(AutoF1 auto in c.competidores)
                 {
-                    return true;
+                    if(auto == a)
+                    {
+                        return true;
+                    }
                 }
             }
             return false;
@@ -66,6 +69,7 @@ namespace Entidades
             if(c == a)
             {
                 retorno = true;
+                c.competidores.Remove(a);
             }
 
             return retorno;
@@ -78,7 +82,12 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("\tDATOS COMPETENCIA\n");
             sb.AppendLine("CANTIDAD DE COMPETIDORES: " + this.cantidadCompetidores);
-            sb.AppendLine("CANTIDAD DE VULETAS RESTANTES: " + this.cantidadVueltas);
+            sb.AppendLine("CANTIDAD DE VULETAS RESTANTES: " + this.cantidadVueltas + "\n\n");
+
+            foreach(AutoF1 a in this.competidores)
+            {
+                sb.AppendLine(a.MostrarDatos());
+            }
 
             return sb.ToString();
         }
