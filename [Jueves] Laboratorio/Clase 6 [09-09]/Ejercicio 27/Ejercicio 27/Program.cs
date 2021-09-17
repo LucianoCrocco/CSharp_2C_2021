@@ -37,6 +37,10 @@ namespace Ejercicio_27
             {
                 Console.WriteLine(item);
             }
+            //for(int i = 0; i< 20; i++) SE PUEDE ACCEDER A UNA LISTA MEDIANTE UN INDICE
+            //{
+            //    Console.WriteLine(lista[i]);
+            //}
 
             Console.WriteLine("\tNUMEROS POSITIVOS EN LA LISTA ORDENADOS EN FORMA DECRECIENTE");
             lista.Sort(OrdenarLista);
@@ -60,6 +64,13 @@ namespace Ejercicio_27
                     Console.WriteLine(item);
                 }
             }
+
+            //for (int i = 0; i < 20; i++) //NO SE PUEDE ACCEDER A UN STACK Y UNA QUEUE A TRAVES DE UN INDICE
+            //{
+            //    Console.WriteLine(pilaNeg[i]);
+            //    Console.WriteLine(colaNeg[i]);
+            //}
+
 
             Console.WriteLine("\tNUMEROS POSITIVOS EN LA PILA ORDENADOS EN FORMA DECRECIENTE");
 
