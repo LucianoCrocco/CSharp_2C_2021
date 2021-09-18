@@ -11,7 +11,7 @@ namespace Ejercicio_32
             Jugador j1 = new Jugador(100, "Jose");
             Jugador j2 = new Jugador(100, "Jose");
             Jugador j3 = new Jugador(101, "Pedro", 1, 10);
-            Jugador j4 = new Jugador(102, "Juanlo", 90, 1200);
+            Jugador j4 = new Jugador(102, "Juanlo", 3000000, 1200);
             Jugador j5 = new Jugador(103, "Maradona", 200, 300);
             Jugador j6 = new Jugador(104, "Messi", 300, 150);
             Jugador j7 = new Jugador(105, "Ortigoza", 5, 303);

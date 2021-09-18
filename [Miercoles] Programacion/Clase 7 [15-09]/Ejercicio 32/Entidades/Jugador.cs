@@ -24,8 +24,8 @@ namespace Entidades
         public Jugador (int dni, string nombre)
             : this()
         {
-            this.dni = dni;
-            this.nombre = nombre;
+            this.DNI = dni;
+            this.Nombre = nombre;
         }
         
         public Jugador(int dni, string nombre, int totalGoles, int totalPartidos) 
@@ -50,11 +50,11 @@ namespace Entidades
         {
             get
             {
-                if (this.totalGoles == 0)
+                if (this.TotalGoles == 0)
                 {
                     return 0;
                 }
-                return this.partidosJugados / this.totalGoles;
+                return (float) this.TotalGoles / (float) this.PartidosJugados;
             }
         }
 

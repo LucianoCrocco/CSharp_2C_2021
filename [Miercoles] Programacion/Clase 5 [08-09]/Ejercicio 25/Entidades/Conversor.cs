@@ -8,17 +8,20 @@ namespace Entidades
         {
             string retorno = string.Empty;
 
-            if (numero >= 0)
+            if(numero < 0)
             {
-                int resultado = (int) numero;
-                int aux;
-                do
-                {
-                    aux = resultado % 2;
-                    resultado /= 2;
-                    retorno = aux.ToString() + retorno;
-                } while (resultado > 0);
+                this.Numero =numero * -1;
             }
+            
+            int resultado = (int) numero;
+            int aux;
+            do
+            {
+                aux = resultado % 2;
+                resultado /= 2;
+                retorno = aux.ToString() + retorno;
+            } while (resultado > 0);
+            
 
             return retorno;
         }

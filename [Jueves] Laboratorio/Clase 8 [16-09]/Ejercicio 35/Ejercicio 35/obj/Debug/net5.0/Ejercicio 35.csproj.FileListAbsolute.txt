@@ -1,0 +1,19 @@
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.exe
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.deps.json
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.dll
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\ref\Ejercicio 35.dll
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.pdb
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.csproj.CopyComplete
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.dll
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\ref\Ejercicio 35.dll
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.pdb
+C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.genruntimeconfig.cache
