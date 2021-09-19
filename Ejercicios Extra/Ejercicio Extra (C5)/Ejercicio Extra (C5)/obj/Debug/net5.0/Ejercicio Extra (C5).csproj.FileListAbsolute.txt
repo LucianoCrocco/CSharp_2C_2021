@@ -1,0 +1,19 @@
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\bin\Debug\net5.0\Ejercicio Extra (C5).exe
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\bin\Debug\net5.0\Ejercicio Extra (C5).deps.json
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\bin\Debug\net5.0\Ejercicio Extra (C5).runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\bin\Debug\net5.0\Ejercicio Extra (C5).runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\bin\Debug\net5.0\Ejercicio Extra (C5).dll
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\bin\Debug\net5.0\ref\Ejercicio Extra (C5).dll
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\bin\Debug\net5.0\Ejercicio Extra (C5).pdb
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\obj\Debug\net5.0\Ejercicio Extra (C5).csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\obj\Debug\net5.0\Ejercicio Extra (C5).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\obj\Debug\net5.0\Ejercicio Extra (C5).AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\obj\Debug\net5.0\Ejercicio Extra (C5).AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\obj\Debug\net5.0\Ejercicio Extra (C5).csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\obj\Debug\net5.0\Ejercicio Extra (C5).dll
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\obj\Debug\net5.0\ref\Ejercicio Extra (C5).dll
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\obj\Debug\net5.0\Ejercicio Extra (C5).pdb
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\obj\Debug\net5.0\Ejercicio Extra (C5).genruntimeconfig.cache
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lucia\source\repos\Ejercicio Extra (C5)\Ejercicio Extra (C5)\obj\Debug\net5.0\Ejercicio Extra (C5).csproj.CopyComplete
