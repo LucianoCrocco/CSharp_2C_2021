@@ -73,7 +73,7 @@ namespace Entidades
 
         public static bool operator ==(Producto p1, Producto p2)
         {
-            if (p1.Marca == p2.Marca && ((string)p1) == ((string)p2) && !(p1 is null) && !(p2 is null))
+            if (!(p1 is null) && !(p2 is null) && p1.Marca == p2.Marca && ((string)p1) == ((string)p2))
             {
                 return true;
             }
