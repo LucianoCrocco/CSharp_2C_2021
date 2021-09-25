@@ -1,5 +1,5 @@
 ﻿using System;
-using CentralitaHerencia;
+using EntidadesCentralita;
 
 namespace CentralTelefonica
 {

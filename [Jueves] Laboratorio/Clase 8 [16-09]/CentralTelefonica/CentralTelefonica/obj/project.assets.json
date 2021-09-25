@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "CentralitaHerencia/1.0.0": {
+      "EntidadesCentralita/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/CentralitaHerencia.dll": {}
+          "bin/placeholder/EntidadesCentralita.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CentralitaHerencia.dll": {}
+          "bin/placeholder/EntidadesCentralita.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CentralitaHerencia/1.0.0": {
+    "EntidadesCentralita/1.0.0": {
       "type": "project",
-      "path": "../CentralitaHerencia/CentralitaHerencia.csproj",
-      "msbuildProject": "../CentralitaHerencia/CentralitaHerencia.csproj"
+      "path": "../EntidadesCentralita/EntidadesCentralita.csproj",
+      "msbuildProject": "../EntidadesCentralita/EntidadesCentralita.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "CentralitaHerencia >= 1.0.0"
+      "EntidadesCentralita >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 8 [16-09]\\CentralTelefonica\\CentralTelefonica\\CentralTelefonica.csproj",
+      "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\CentralTelefonica\\CentralTelefonica\\CentralTelefonica.csproj",
       "projectName": "CentralTelefonica",
-      "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 8 [16-09]\\CentralTelefonica\\CentralTelefonica\\CentralTelefonica.csproj",
+      "projectPath": "C:\\Users\\Lucia\\source\\repos\\CentralTelefonica\\CentralTelefonica\\CentralTelefonica.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 8 [16-09]\\CentralTelefonica\\CentralTelefonica\\obj\\",
+      "outputPath": "C:\\Users\\Lucia\\source\\repos\\CentralTelefonica\\CentralTelefonica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 8 [16-09]\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj": {
-              "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 8 [16-09]\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj"
+            "C:\\Users\\Lucia\\source\\repos\\CentralTelefonica\\EntidadesCentralita\\EntidadesCentralita.csproj": {
+              "projectPath": "C:\\Users\\Lucia\\source\\repos\\CentralTelefonica\\EntidadesCentralita\\EntidadesCentralita.csproj"
             }
           }
         }
