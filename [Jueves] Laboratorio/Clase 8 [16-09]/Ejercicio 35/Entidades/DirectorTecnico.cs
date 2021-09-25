@@ -18,8 +18,8 @@ namespace Entidades
         {
         }
 
-        public DirectorTecnico(string nombre, DateTime fechaDeNacimiento)
-            : base(nombre)
+        public DirectorTecnico(string nombre,  DateTime fechaDeNacimiento)
+            : this(nombre)
         {
             this.fechaDeNacimiento = fechaDeNacimiento;
         }

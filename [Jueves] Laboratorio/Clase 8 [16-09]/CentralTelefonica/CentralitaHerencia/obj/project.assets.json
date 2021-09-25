@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
+      "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 8 [16-09]\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
       "projectName": "CentralitaHerencia",
-      "projectPath": "C:\\Users\\Lucia\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
+      "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 8 [16-09]\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucia\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\obj\\",
+      "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 8 [16-09]\\CentralTelefonica\\CentralitaHerencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

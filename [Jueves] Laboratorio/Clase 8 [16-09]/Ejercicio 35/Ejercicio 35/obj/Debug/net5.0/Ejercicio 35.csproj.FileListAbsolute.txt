@@ -17,3 +17,22 @@ C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio
 C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\ref\Ejercicio 35.dll
 C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.pdb
 C:\Users\Lucia\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.genruntimeconfig.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.runtimeconfig.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.runtimeconfig.dev.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\ref\Ejercicio 35.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Ejercicio 35.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Entidades.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\bin\Debug\net5.0\Entidades.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\ref\Ejercicio 35.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 8 [16-09]\Ejercicio 35\Ejercicio 35\obj\Debug\net5.0\Ejercicio 35.genruntimeconfig.cache

@@ -24,7 +24,6 @@ namespace Entidades
         Puesto puesto;
         #endregion
 
-
         #region Constructores
         private PuestoAtencion()
         {
@@ -47,7 +46,6 @@ namespace Entidades
             }
         }
         #endregion
-
 
         #region Metodos
         public bool Atender(Cliente cli)
