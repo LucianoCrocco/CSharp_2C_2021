@@ -25,8 +25,7 @@ namespace Practica_Parcial
         {
             this.cmbTipoVehiculo.DataSource = Enum.GetValues(typeof(Vehiculo.EVehiculos));
             this.cmbTipoMoto.DataSource = Enum.GetValues(typeof(Moto.Etipo));
-            this.estacionamiento = Estacionamiento.GetEstacionamiento("Luciano Crocco",
-            20);
+            this.estacionamiento = Estacionamiento.GetEstacionamiento("Luciano Crocco", 20);
             this.txtNombreEstacionamiento.Text = this.estacionamiento.Nombre;
         }
 

@@ -19,3 +19,24 @@ C:\Users\Lucia\source\repos\Practica Parcial\Practica Parcial\obj\Debug\net5.0-w
 C:\Users\Lucia\source\repos\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\ref\Practica Parcial.dll
 C:\Users\Lucia\source\repos\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.pdb
 C:\Users\Lucia\source\repos\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.genruntimeconfig.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\bin\Debug\net5.0-windows\Practica Parcial.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\bin\Debug\net5.0-windows\Practica Parcial.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\bin\Debug\net5.0-windows\Practica Parcial.runtimeconfig.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\bin\Debug\net5.0-windows\Practica Parcial.runtimeconfig.dev.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\bin\Debug\net5.0-windows\Practica Parcial.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\bin\Debug\net5.0-windows\ref\Practica Parcial.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\bin\Debug\net5.0-windows\Practica Parcial.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\bin\Debug\net5.0-windows\Entidades.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\bin\Debug\net5.0-windows\Entidades.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica_Parcial.Form1.resources
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.csproj.GenerateResource.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\ref\Practica Parcial.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 10 [23-09]\Practica Parcial\Practica Parcial\obj\Debug\net5.0-windows\Practica Parcial.genruntimeconfig.cache

@@ -58,8 +58,8 @@ namespace Entidades
         protected override string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(base.MostrarDatos());
             sb.AppendLine("****AUTOMOVIL*****");
+            sb.AppendLine(base.MostrarDatos());
             sb.AppendLine("MARCA: " + this.Descripcion);
 
             return sb.ToString();

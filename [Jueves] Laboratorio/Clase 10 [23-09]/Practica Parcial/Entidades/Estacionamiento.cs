@@ -101,5 +101,17 @@ namespace Entidades
             }
             return false;
         }
+
+        public override bool Equals(object obj)
+        {
+            Estacionamiento estacionamiento = obj as Estacionamiento;
+
+            return !(estacionamiento is null) && estacionamiento == this;
+        }
+
+        public override int GetHashCode()
+        {
+            return (listadoVehiculos).GetHashCode();
+        }
     }
 }

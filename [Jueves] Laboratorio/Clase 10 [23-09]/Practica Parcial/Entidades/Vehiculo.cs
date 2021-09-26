@@ -61,7 +61,7 @@ namespace Entidades
             }
             set
             {
-                if(ValidarPatente(value) == true)
+                if(ValidarPatente(value))
                 {
                     this.patente = value;
                 }
@@ -71,7 +71,7 @@ namespace Entidades
         {
             bool retorno = true;
 
-            if (patente.Length < 6 || patente.Length > 7)
+            if (!String.IsNullOrWhiteSpace(patente) && (patente.Length < 6 || patente.Length > 7))
             { 
                 retorno = false;
             }
@@ -80,7 +80,12 @@ namespace Entidades
 
         protected virtual double CargoEstacionamiento()
         {
-            return this.HoraEgreso.Hour - this.HoraIngreso.Hour; 
+            double retorno = 0;
+            if(this.HoraEgreso.Hour > this.HoraIngreso.Hour)
+            {
+                retorno = this.HoraEgreso.Hour - this.HoraIngreso.Hour;
+            }
+            return retorno; 
         }
 
         protected virtual string MostrarDatos()
