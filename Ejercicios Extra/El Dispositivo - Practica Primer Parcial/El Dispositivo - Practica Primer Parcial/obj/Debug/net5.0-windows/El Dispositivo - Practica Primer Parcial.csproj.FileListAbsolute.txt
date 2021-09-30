@@ -1,0 +1,21 @@
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\bin\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.exe
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\bin\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.deps.json
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\bin\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.runtimeconfig.json
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\bin\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\bin\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.dll
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\bin\Debug\net5.0-windows\ref\El Dispositivo - Practica Primer Parcial.dll
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\bin\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.pdb
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El_Dispositivo___Practica_Primer_Parcial.Form1.resources
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.csproj.GenerateResource.cache
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.dll
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\ref\El Dispositivo - Practica Primer Parcial.dll
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.pdb
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.genruntimeconfig.cache
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Lucia\source\repos\El Dispositivo - Practica Primer Parcial\El Dispositivo - Practica Primer Parcial\obj\Debug\net5.0-windows\El Dispositivo - Practica Primer Parcial.csproj.CopyComplete

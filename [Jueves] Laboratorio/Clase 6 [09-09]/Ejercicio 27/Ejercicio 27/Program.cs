@@ -89,12 +89,12 @@ namespace Ejercicio_27
 
             Console.WriteLine("\tNUMEROS POSITIVOS EN LA COLA ORDENADOS EN FORMA DECRECIENTE");
 
-            Console.WriteLine(colaPos.Dequeue());
-            //foreach (int item in colaPos)
-            //{
-            //    Console.WriteLine(item);
+            //Console.WriteLine(colaPos.Dequeue());
+            foreach (int item in colaPos)
+            {
+                Console.WriteLine(item);
                 
-            //}
+            }
 
             Console.WriteLine("\tNUMEROS NEGATIVOS EN LA COLA ORDENADOS EN FORMA CRECIENTE");
 

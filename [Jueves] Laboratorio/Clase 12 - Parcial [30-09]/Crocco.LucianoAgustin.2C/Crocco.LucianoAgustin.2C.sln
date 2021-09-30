@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crocco.LucianoAgustin.2C", "Crocco.LucianoAgustin.2C\Crocco.LucianoAgustin.2C.csproj", "{5A79F710-FDCE-48D4-9449-540B051E006D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{20D69C03-38DF-4944-8815-F034DDF40CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A79F710-FDCE-48D4-9449-540B051E006D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A79F710-FDCE-48D4-9449-540B051E006D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A79F710-FDCE-48D4-9449-540B051E006D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A79F710-FDCE-48D4-9449-540B051E006D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D69C03-38DF-4944-8815-F034DDF40CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D69C03-38DF-4944-8815-F034DDF40CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D69C03-38DF-4944-8815-F034DDF40CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D69C03-38DF-4944-8815-F034DDF40CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FA81680-6087-4176-ACA7-AE6ADC082052}
+	EndGlobalSection
+EndGlobal
