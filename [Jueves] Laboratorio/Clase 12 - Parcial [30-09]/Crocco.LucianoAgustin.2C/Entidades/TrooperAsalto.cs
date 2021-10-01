@@ -26,8 +26,8 @@ namespace Entidades
         /// Constructor por defecto de la clase TrooperAsalto
         /// </summary>
         /// <param name="armamento">Tipo de armamento que utilizará nuestro trooper</param>
-        public TrooperAsalto (Blaster armamento)
-            : base(armamento) { }
+        public TrooperAsalto (Blaster armamento)//Correcion, me confundi con el Trooper Arena.
+            : base(armamento, true) { }
 
         #endregion
     }

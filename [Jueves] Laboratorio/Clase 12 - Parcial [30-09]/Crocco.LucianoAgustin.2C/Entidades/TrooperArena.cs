@@ -27,7 +27,7 @@ namespace Entidades
         /// </summary>
         /// <param name="armamento">Tipo de armamento que utilizará nuestro trooper</param>
         public TrooperArena(Blaster armamento)
-            : base(armamento, true) { }
+            : base(armamento) { }
 
         #endregion
     }

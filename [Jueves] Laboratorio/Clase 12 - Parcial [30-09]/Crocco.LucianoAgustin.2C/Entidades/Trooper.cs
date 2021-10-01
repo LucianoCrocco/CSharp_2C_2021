@@ -46,9 +46,8 @@ namespace Entidades
         /// <param name="armamento">Tipo de blaster del trooper</param>
         //Nota: Se que si llamo con :this() al constructor por defecto me va a inicializar el esClon en false. No me gusta como queda en tiempo de diseño:$
         public Trooper(Blaster armamento)
+            : this(armamento, false)
         {
-            this.esClon = false;
-            this.armamento = armamento;
         }
 
         /// <summary>
@@ -57,8 +56,8 @@ namespace Entidades
         /// <param name="armamento">Tipo de blaster del trooper</param>
         /// <param name="esClon">true o false si es clon</param>
         public Trooper(Blaster armamento, bool esClon)
-            : this(armamento)
         {
+            this.armamento = armamento;
             this.esClon = esClon;
         }
         #endregion
@@ -70,8 +69,18 @@ namespace Entidades
         /// <returns></returns>
         public virtual string InfoTrooper()
         {
-            string retorno = $"{Tipo} armado con {Armamento}, {EsClon} es clone.";
+            string retorno = "";
+            string reemplazo;
             //No tengo idea como usar el String.Format
+            if (this.EsClon)
+            {
+                reemplazo = String.Format("si", true);
+                retorno = $"{Tipo} armado con {Armamento}, {reemplazo} es clone.";
+            } else
+            {
+                reemplazo = String.Format("no", false);
+                retorno = $"{Tipo} armado con {Armamento}, {reemplazo} es clone.";
+            }
             return retorno;
         }
         #endregion
