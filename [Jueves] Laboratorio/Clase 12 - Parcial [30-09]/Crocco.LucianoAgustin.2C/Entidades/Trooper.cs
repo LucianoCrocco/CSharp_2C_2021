@@ -21,13 +21,17 @@ namespace Entidades
             }
         }
         /// <summary>
-        /// Devuelve el valor booleano del atributo esClon
+        /// Devuelve el valor booleano del atributo esClon,  asgina si es clon o no.
         /// </summary>
         public bool EsClon
         {
             get
             {
                 return this.esClon;
+            }
+            set
+            {
+                this.esClon = value;
             }
         }
         /// <summary>

@@ -149,7 +149,6 @@ namespace Crocco.LucianoAgustin._2C
             this.rdBtnSi.TabIndex = 9;
             this.rdBtnSi.Text = "Sí";
             this.rdBtnSi.UseVisualStyleBackColor = true;
-            this.rdBtnSi.CheckedChanged += new System.EventHandler(this.rdBtnSi_CheckedChanged);
             // 
             // rdBtnNo
             // 
@@ -162,7 +161,6 @@ namespace Crocco.LucianoAgustin._2C
             this.rdBtnNo.TabStop = true;
             this.rdBtnNo.Text = "No";
             this.rdBtnNo.UseVisualStyleBackColor = true;
-            this.rdBtnNo.CheckedChanged += new System.EventHandler(this.rdBtnNo_CheckedChanged);
             // 
             // Form1
             // 

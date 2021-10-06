@@ -40,18 +40,48 @@ namespace Crocco.LucianoAgustin._2C
             {
                 if (rdBtnSi.Checked)
                 {
-                    switch (cmbArmamento.SelectedItem.ToString())
+                    switch (cmbTipo.SelectedItem.ToString())
                     {
-                        case "E11":
-                            trooper = new TrooperAsalto(Blaster.E11);
-                            ejercitoImperial += trooper;
+                        case "Arena":
+                            switch (cmbArmamento.SelectedItem.ToString())
+                            {
+                                case "E11":
+                                    trooper = new TrooperArena(Blaster.E11);
+                                    trooper.EsClon = true;
+                                    ejercitoImperial += trooper;
+                                    break;
+                                case "EC17":
+                                    trooper = new TrooperArena(Blaster.EC17);
+                                    trooper.EsClon = true;
+                                    ejercitoImperial += trooper;
+                                    break;
+                                case "DLT19":
+                                    trooper = new TrooperArena(Blaster.DLT19);
+                                    trooper.EsClon = true;
+                                    ejercitoImperial += trooper;
+                                    break;
+                            }
                             break;
-                        case "EC17":
-                            trooper = new TrooperAsalto(Blaster.EC17);
-                            ejercitoImperial += trooper;
+                        case "Asalto":
+                            switch (cmbArmamento.SelectedItem.ToString())
+                            {
+                                case "E11":
+                                    trooper = new TrooperAsalto(Blaster.E11);
+                                    ejercitoImperial += trooper;
+                                    break;
+                                case "EC17":
+                                    trooper = new TrooperAsalto(Blaster.EC17);
+                                    ejercitoImperial += trooper;
+                                    break;
+                                case "DLT19":
+                                    trooper = new TrooperAsalto(Blaster.DLT19);
+                                    ejercitoImperial += trooper;
+                                    break;
+                            }
                             break;
-                        case "DLT19":
-                            trooper = new TrooperAsalto(Blaster.DLT19);
+                        case "Explorador":
+                            trooper = new TrooperExplorador("Moto");
+                            trooper.EsClon = true;
                             ejercitoImperial += trooper;
                             break;
                     }
@@ -80,14 +110,17 @@ namespace Crocco.LucianoAgustin._2C
                             {
                                 case "E11":
                                     trooper = new TrooperAsalto(Blaster.E11);
+                                    trooper.EsClon = false;
                                     ejercitoImperial += trooper;
                                     break;
                                 case "EC17":
                                     trooper = new TrooperAsalto(Blaster.EC17);
+                                    trooper.EsClon = false;
                                     ejercitoImperial += trooper;
                                     break;
                                 case "DLT19":
                                     trooper = new TrooperAsalto(Blaster.DLT19);
+                                    trooper.EsClon = false;
                                     ejercitoImperial += trooper;
                                     break;
                             }
@@ -109,18 +142,44 @@ namespace Crocco.LucianoAgustin._2C
             Trooper trooper;
             if (rdBtnSi.Checked)
             {
-                switch (cmbArmamento.SelectedItem.ToString())
+                switch (cmbTipo.SelectedItem.ToString())
                 {
-                    case "E11":
-                        trooper = new TrooperAsalto(Blaster.E11);
-                        ejercitoImperial -= trooper;
+                    case "Arena":
+                        switch (cmbArmamento.SelectedItem.ToString())
+                        {
+                            case "E11":
+                                trooper = new TrooperArena(Blaster.E11);
+                                ejercitoImperial -= trooper;
+                                break;
+                            case "EC17":
+                                trooper = new TrooperArena(Blaster.EC17);
+                                ejercitoImperial -= trooper;
+                                break;
+                            case "DLT19":
+                                trooper = new TrooperArena(Blaster.DLT19);
+                                ejercitoImperial -= trooper;
+                                break;
+                        }
                         break;
-                    case "EC17":
-                        trooper = new TrooperAsalto(Blaster.EC17);
-                        ejercitoImperial -= trooper;
+                    case "Asalto":
+                        switch (cmbArmamento.SelectedItem.ToString())
+                        {
+                            case "E11":
+                                trooper = new TrooperAsalto(Blaster.E11);
+                                ejercitoImperial -= trooper;
+                                break;
+                            case "EC17":
+                                trooper = new TrooperAsalto(Blaster.EC17);
+                                ejercitoImperial -= trooper;
+                                break;
+                            case "DLT19":
+                                trooper = new TrooperAsalto(Blaster.DLT19);
+                                ejercitoImperial -= trooper;
+                                break;
+                        }
                         break;
-                    case "DLT19":
-                        trooper = new TrooperAsalto(Blaster.DLT19);
+                    case "Explorador":
+                        trooper = new TrooperExplorador("Moto");
                         ejercitoImperial -= trooper;
                         break;
                 }
@@ -173,16 +232,5 @@ namespace Crocco.LucianoAgustin._2C
         }
 
         #endregion
-
-        private void rdBtnSi_CheckedChanged(object sender, EventArgs e)
-        {
-            cmbTipo.SelectedIndex = 1;
-            cmbTipo.Enabled = false;
-        }
-
-        private void rdBtnNo_CheckedChanged(object sender, EventArgs e)
-        {
-            cmbTipo.Enabled = true;
-        }
     }
 }
