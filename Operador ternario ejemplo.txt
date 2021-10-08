@@ -1,0 +1,1 @@
+return string.Format($"{Tipo} armado con {Armamento}, {(this.esClon ? "SI" : "NO")} es clone.");
