@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 13 [06-10]\\Ejercicio 43\\Excepciones\\Excepciones.csproj": {}
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 13 - Excepciones [06-10]\\Ejercicio 43\\Excepciones\\Excepciones.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 13 [06-10]\\Ejercicio 43\\Excepciones\\Excepciones.csproj": {
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 13 - Excepciones [06-10]\\Ejercicio 43\\Excepciones\\Excepciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 13 [06-10]\\Ejercicio 43\\Excepciones\\Excepciones.csproj",
+        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 13 - Excepciones [06-10]\\Ejercicio 43\\Excepciones\\Excepciones.csproj",
         "projectName": "Excepciones",
-        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 13 [06-10]\\Ejercicio 43\\Excepciones\\Excepciones.csproj",
+        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 13 - Excepciones [06-10]\\Ejercicio 43\\Excepciones\\Excepciones.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 13 [06-10]\\Ejercicio 43\\Excepciones\\obj\\",
+        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 13 - Excepciones [06-10]\\Ejercicio 43\\Excepciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -106,7 +106,6 @@ namespace Entidades
                          return true;
                      }
                  }
-                return true;
             }
             return false;
         }
@@ -120,7 +119,7 @@ namespace Entidades
         {
             bool retorno = false;
 
-            if(c.cantidadCompetidores > c.competidores.Count && ((c.Tipo == TipoCompetencia.F1 && a is AutoF1) || (c.Tipo == TipoCompetencia.MotoCross && a.GetType() == typeof(MotoCross))) && c == a)
+            if(c.cantidadCompetidores > c.competidores.Count && ((c.Tipo == TipoCompetencia.F1 && a is AutoF1) || (c.Tipo == TipoCompetencia.MotoCross && a.GetType() == typeof(MotoCross))) && c != a)
             {
                 Random random = new Random();
                 c.competidores.Add(a);

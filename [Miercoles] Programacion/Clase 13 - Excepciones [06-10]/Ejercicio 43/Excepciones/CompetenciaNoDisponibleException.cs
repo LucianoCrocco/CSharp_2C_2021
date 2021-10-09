@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Exepciones
+namespace Excepciones
 {
     public class CompetenciaNoDisponibleException : Exception
     {
@@ -28,11 +28,11 @@ namespace Exepciones
         #endregion
 
         #region Constructores
-        CompetenciaNoDisponibleException(string mensaje, string clase, string metodo) 
+        public CompetenciaNoDisponibleException(string mensaje, string clase, string metodo) 
         :this(mensaje, clase, metodo, null)
             { }
 
-        CompetenciaNoDisponibleException(string mensaje, string clase, string metodo, Exception innerException) 
+        public CompetenciaNoDisponibleException(string mensaje, string clase, string metodo, Exception innerException) 
             :base(mensaje, innerException)
 
         {

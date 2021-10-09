@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Excepciones;
 
 namespace Entidades
 {
@@ -106,7 +107,9 @@ namespace Entidades
                          return true;
                      }
                  }
-                return true;
+            } else
+            {
+                throw new CompetenciaNoDisponibleException("El vehiculo con corresponde a la competencia", "Competencia.cs", "Sobrecarga ==");
             }
             return false;
         }
@@ -120,14 +123,24 @@ namespace Entidades
         {
             bool retorno = false;
 
-            if(c.cantidadCompetidores > c.competidores.Count && ((c.Tipo == TipoCompetencia.F1 && a is AutoF1) || (c.Tipo == TipoCompetencia.MotoCross && a.GetType() == typeof(MotoCross))) && c == a)
+            if( c is not null && a is not null && c.cantidadCompetidores > c.competidores.Count)
             {
-                Random random = new Random();
-                c.competidores.Add(a);
-                a.EnCompetencia = true;
-                a.VueltasRestantes = c.CantidadVueltas;
-                a.CantidadCombustible = ((short)random.Next(15, 100));
-                retorno = true;
+                try
+                {
+                    if (c != a && ((c.Tipo == TipoCompetencia.F1 && a is AutoF1) || (c.Tipo == TipoCompetencia.MotoCross && a.GetType() == typeof(MotoCross))))
+                    {
+                        Random random = new Random();
+                        c.competidores.Add(a);
+                        a.EnCompetencia = true;
+                        a.VueltasRestantes = c.CantidadVueltas;
+                        a.CantidadCombustible = ((short)random.Next(15, 100));
+                        retorno = true;
+                    }
+                }
+                catch (CompetenciaNoDisponibleException e)
+                {
+                    throw new CompetenciaNoDisponibleException("Competencia incorrecta", "Competencia.cs", "Sobrecarga +", e);
+                }
             }
             return retorno;
         }

@@ -36,3 +36,24 @@ D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Cla
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\ref\Ejercicio 36.dll
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.pdb
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.genruntimeconfig.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.exe
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.runtimeconfig.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.runtimeconfig.dev.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\ref\Ejercicio 36.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\Entidades.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\Entidades.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\bin\Debug\net5.0\Excepciones.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.csproj.CopyComplete
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\ref\Ejercicio 36.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.genruntimeconfig.cache
