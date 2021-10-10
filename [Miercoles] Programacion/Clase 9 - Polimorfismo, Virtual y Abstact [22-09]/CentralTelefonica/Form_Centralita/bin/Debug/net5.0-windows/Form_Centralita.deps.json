@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Form_Centralita/1.0.0": {
+        "dependencies": {
+          "EntidadesCentralita": "1.0.0"
+        },
+        "runtime": {
+          "Form_Centralita.dll": {}
+        }
+      },
+      "EntidadesCentralita/1.0.0": {
+        "runtime": {
+          "EntidadesCentralita.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Form_Centralita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesCentralita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.deps.json
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\bin\Debug\net5.0\ref\EntidadesCentralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\ref\EntidadesCentralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.csproj.AssemblyReference.cache
