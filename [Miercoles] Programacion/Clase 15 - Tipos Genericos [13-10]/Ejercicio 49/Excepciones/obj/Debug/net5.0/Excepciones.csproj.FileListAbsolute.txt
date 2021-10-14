@@ -1,0 +1,36 @@
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\bin\Debug\net5.0\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\bin\Debug\net5.0\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\obj\Debug\net5.0\Excepciones.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\obj\Debug\net5.0\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 46\Excepciones\obj\Debug\net5.0\Excepciones.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\bin\Debug\net5.0\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\obj\Debug\net5.0\Excepciones.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\obj\Debug\net5.0\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Excepciones\obj\Debug\net5.0\Excepciones.pdb

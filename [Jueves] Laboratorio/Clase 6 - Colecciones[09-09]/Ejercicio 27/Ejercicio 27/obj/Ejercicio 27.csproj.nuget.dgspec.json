@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 6 [09-09]\\Ejercicio 27\\Ejercicio 27\\Ejercicio 27.csproj": {}
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 6 - Colecciones[09-09]\\Ejercicio 27\\Ejercicio 27\\Ejercicio 27.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 6 [09-09]\\Ejercicio 27\\Ejercicio 27\\Ejercicio 27.csproj": {
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 6 - Colecciones[09-09]\\Ejercicio 27\\Ejercicio 27\\Ejercicio 27.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 6 [09-09]\\Ejercicio 27\\Ejercicio 27\\Ejercicio 27.csproj",
+        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 6 - Colecciones[09-09]\\Ejercicio 27\\Ejercicio 27\\Ejercicio 27.csproj",
         "projectName": "Ejercicio 27",
-        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 6 [09-09]\\Ejercicio 27\\Ejercicio 27\\Ejercicio 27.csproj",
+        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 6 - Colecciones[09-09]\\Ejercicio 27\\Ejercicio 27\\Ejercicio 27.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 6 [09-09]\\Ejercicio 27\\Ejercicio 27\\obj\\",
+        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 6 - Colecciones[09-09]\\Ejercicio 27\\Ejercicio 27\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

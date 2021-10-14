@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C.csproj": {}
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C.csproj": {
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C.csproj",
+        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C.csproj",
         "projectName": "Crocco.LucianoAgustin.2C",
-        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C.csproj",
+        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Crocco.LucianoAgustin.2C\\obj\\",
+        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Crocco.LucianoAgustin.2C\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Entidades\\Entidades.csproj": {
-                "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Entidades\\Entidades.csproj"
+              "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Entidades\\Entidades.csproj": {
+    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Entidades\\Entidades.csproj",
+        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C\\Entidades\\obj\\",
+        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 12 - Parcial [30-09]\\Crocco.LucianoAgustin.2C - Corregido\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
