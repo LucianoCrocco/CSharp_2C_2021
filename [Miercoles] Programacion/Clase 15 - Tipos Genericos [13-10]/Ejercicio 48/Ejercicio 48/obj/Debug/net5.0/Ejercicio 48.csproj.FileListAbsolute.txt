@@ -17,3 +17,11 @@ C:\Users\Lucia\source\repos\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\Ejercicio
 C:\Users\Lucia\source\repos\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\ref\Ejercicio 48.dll
 C:\Users\Lucia\source\repos\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\Ejercicio 48.pdb
 C:\Users\Lucia\source\repos\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\Ejercicio 48.genruntimeconfig.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\Ejercicio 48.csproj.AssemblyReference.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\Ejercicio 48.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\Ejercicio 48.AssemblyInfoInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\Ejercicio 48.AssemblyInfo.cs
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\Ejercicio 48.csproj.CoreCompileInputs.cache
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\Ejercicio 48.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\ref\Ejercicio 48.dll
+D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 48\Ejercicio 48\obj\Debug\net5.0\Ejercicio 48.pdb

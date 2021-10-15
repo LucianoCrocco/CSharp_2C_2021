@@ -28,7 +28,8 @@ namespace Ejercicio_36
             #endregion
 
             #region Agregar vehiculos a la competencia
-            #region Testing normal
+
+                #region Testing normal
 
             Console.WriteLine("-------Agrego AutosF1 a competencia F1-------");
             try
@@ -118,10 +119,10 @@ namespace Ejercicio_36
             Console.WriteLine("\n-------Testing comun hecho hasta ahora sin excepciones-------\n\n\n");
             Console.ReadKey();
             Console.Clear();
-            
-            #endregion
 
+                #endregion
 
+                #region Testing Excepciones
             Console.WriteLine("\n-------Agrego un Motocross a una competencia de F1-------");
             try
             {
@@ -160,15 +161,11 @@ namespace Ejercicio_36
             {
                 Console.WriteLine(e.ToString());
             }
+                #endregion
             #endregion
 
-
-
-            #region Testing tipado Generics
 
             //competenciaF1 + testingAuto;// ->Con este error podriamos sacar la validacion de los ifs dentro del + e ==: ((c.Tipo == TipoCompetencia.F1 && a.GetType() == typeof(AutoF1)) || (c.Tipo == TipoCompetencia.MotoCross && a is MotoCross))
-
-            #endregion
 
 
             //Console.WriteLine(competencia.MostrarDatos());
