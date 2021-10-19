@@ -36,3 +36,22 @@ D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 1
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 52\Ejercicio 52\obj\Debug\net5.0\ref\Ejercicio 52.dll
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 52\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.pdb
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 52\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.genruntimeconfig.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\bin\Debug\net5.0\Ejercicio 52.exe
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\bin\Debug\net5.0\Ejercicio 52.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\bin\Debug\net5.0\Ejercicio 52.runtimeconfig.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\bin\Debug\net5.0\Ejercicio 52.runtimeconfig.dev.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\bin\Debug\net5.0\Ejercicio 52.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\bin\Debug\net5.0\ref\Ejercicio 52.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\bin\Debug\net5.0\Ejercicio 52.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\bin\Debug\net5.0\Entidades.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\bin\Debug\net5.0\Entidades.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.csproj.CopyComplete
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\ref\Ejercicio 52.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.genruntimeconfig.cache

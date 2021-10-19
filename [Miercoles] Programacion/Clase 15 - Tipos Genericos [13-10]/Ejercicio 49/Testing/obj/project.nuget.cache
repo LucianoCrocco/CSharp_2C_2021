@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Rv9K4QzB3McHc2EhNQmm32QpfVBLmANINEJmeq2jo0+mCnvGU5q8zRQlIHr+djD0Js6e7qkeU2XbiMCen/tVQ==",
+  "dgSpecHash": "gVBpUpvYi/gIM8u301I9DzqpL8YLrhsHa/2Y6DrXPxZJzH6YFUpJC67eKxskkUefkJNZWxJGEQe8AQ9fh+uKrA==",
   "success": true,
-  "projectFilePath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Miercoles] Programacion\\Clase 15 - Tipos Genericos [13-10]\\Ejercicio 49\\Testing\\Testing.csproj",
+  "projectFilePath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 15 - Tipos Genericos [13-10]\\Ejercicio 49\\Testing\\Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucia\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Lucia\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

@@ -10,3 +10,15 @@ D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Cla
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.dll
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\bin\Debug\net5.0\Excepciones.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 13 - Excepciones [06-10]\Ejercicio 43\Excepciones\obj\Debug\net5.0\Excepciones.pdb

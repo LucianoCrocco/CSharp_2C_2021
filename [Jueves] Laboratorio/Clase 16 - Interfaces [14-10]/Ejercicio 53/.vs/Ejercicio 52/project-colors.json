@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b9b9431-893c-4898-ac63-35265ab3a5f0": {
+      "ProjectGuid": "9b9b9431-893c-4898-ac63-35265ab3a5f0",
+      "DisplayName": "Ejercicio 52",
+      "ColorIndex": 0
+    },
+    "532be66d-8e85-4334-9177-861b57a317c2": {
+      "ProjectGuid": "532be66d-8e85-4334-9177-861b57a317c2",
+      "DisplayName": "Entidades",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
