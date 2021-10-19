@@ -25,10 +25,10 @@ namespace Entidades
         }
         public float UnidadesDeEscritura { get => this.tinta;
             set {
-                if(value > 0)
-                {
+                //if(value > 0)
+                //{
                     this.tinta = value;
-                }
+                //}
             }
         }
         #endregion

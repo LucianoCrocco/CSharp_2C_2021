@@ -25,21 +25,23 @@ namespace Entidades
             bool retornoBoligrafo = true;
             foreach (Boligrafo boli in this.boligrafo)
             {
-                boli.UnidadesDeEscritura = -1;
-                if (boli.UnidadesDeEscritura == 0)
+                boli.UnidadesDeEscritura -= 1;
+                if (boli.UnidadesDeEscritura < 0)
                 {
                     boli.Recargar(20);
                     retornoBoligrafo = false;
+                    break;
                 }
             }
 
             foreach (Lapiz lapiz in this.lapiz)
             {
-                ((IAcciones)lapiz).UnidadesDeEscritura = -1;
-                if (((IAcciones)lapiz).UnidadesDeEscritura == 0)
+                ((IAcciones)lapiz).UnidadesDeEscritura -= 1;
+                if (((IAcciones)lapiz).UnidadesDeEscritura < 0)
                 {
                     ((IAcciones)lapiz).Recargar(20);
                     retornoLapiz = false;
+                    break;
                 }
             }
 

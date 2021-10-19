@@ -21,10 +21,10 @@ namespace Entidades
 
         float IAcciones.UnidadesDeEscritura { get => this.tamanioMina;
             set {
-                if(value > 0)
-                {
+                //if(value > 0)
+                //{
                     this.tamanioMina = value;
-                }
+                //}
             } 
         }
         #endregion

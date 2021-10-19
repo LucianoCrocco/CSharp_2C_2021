@@ -28,17 +28,32 @@ namespace Ejercicio_52
             Console.ReadKey();
 
 
+            Console.WriteLine("\n----------TESTING EJERCICIO 53----------");
+
 
             Cartuchera2<Boligrafo, Lapiz> cartuchera2 = new Cartuchera2<Boligrafo, Lapiz>();
+            Cartuchera1 cartuchera1 = new Cartuchera1();
+            cartuchera1 += miBoligrafo;
+            cartuchera1 += miLapiz;
             cartuchera2 += miBoligrafo;
             cartuchera2 += miLapiz;
-            Lapiz lapiz1 = new Lapiz(0);
+            bool pruebaCartuchera1 = true;
+            bool pruebaCartuchera2 = true;
+            //Tuve que cambiar los Setters de UnidadesDeEscritura para que rompa el loop.
 
-            Console.WriteLine("\n----------TESTING EJERCICIO 53----------");
-            Console.WriteLine("\nSe pudo utilizar la tinta de los boligrafos y lapiz en la cartuchera?: " + (cartuchera2.ProbarElementos()? "SI" : "NO" ));
-            Console.WriteLine("\n\tAgregando un elemento para que de false");
-            cartuchera2 += lapiz1;
-            Console.WriteLine("\nSe pudo utilizar la tinta de los boligrafos y lapiz en la cartuchera?: " + (cartuchera2.ProbarElementos() ? "SI" : "NO"));
+
+            while (pruebaCartuchera1)
+            {
+                pruebaCartuchera1 = cartuchera1.ProbarMetodos();
+                Console.WriteLine("Se pudo probar los metodos en la cartuchera1?: " + (pruebaCartuchera1 ? "SI" : "NO"));
+            }
+            
+
+            while (pruebaCartuchera2)
+            {
+                pruebaCartuchera2 = cartuchera2.ProbarElementos();
+                Console.WriteLine("Se pudo utilizar la tinta de los boligrafos y lapiz en la cartuchera2?: " + (pruebaCartuchera2 ? "SI" : "NO"));
+            }
         }
     }
 }

@@ -23,8 +23,8 @@ namespace Entidades
         public bool ProbarMetodos()
         {
             foreach (IAcciones item in this.acciones){
-                item.UnidadesDeEscritura =- 1;
-                if(item.UnidadesDeEscritura == 0)
+                item.UnidadesDeEscritura -= 1;
+                if(item.UnidadesDeEscritura < 0)
                 {
                     item.Recargar(20);
                     return false;
@@ -33,5 +33,12 @@ namespace Entidades
             return true;
         }
         #endregion
+
+        public static Cartuchera1 operator +(Cartuchera1 cartuchera, object obj)
+        {
+            cartuchera.acciones.Add((IAcciones)obj);
+
+            return cartuchera;
+        }
     }
 }
