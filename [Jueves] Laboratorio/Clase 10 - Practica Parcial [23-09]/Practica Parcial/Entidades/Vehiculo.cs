@@ -91,6 +91,7 @@ namespace Entidades
         protected virtual string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Tipo de vehiculo: " + this.GetType().Name);
             sb.AppendLine("PATENTE: " + this.Patente);
             sb.AppendLine("HORA DE INGRESO: " + this.HoraIngreso.Hour);
 

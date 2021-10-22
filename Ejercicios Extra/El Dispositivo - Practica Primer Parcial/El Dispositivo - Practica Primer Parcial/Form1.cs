@@ -49,6 +49,12 @@ namespace El_Dispositivo___Practica_Primer_Parcial
               new AppMusical("YouTube Music", SistemaOperativo.ANDROID, 30) // Lo debe agregar.
             };
 
+            //Implementacion sobrecarga implicita, la agregue yo.
+            
+            Aplicacion app2 = listaApps;
+
+            MessageBox.Show(app2.ToString());
+            
             foreach (Aplicacion app in listaApps)
             {
                 // Intenta instalar apps.

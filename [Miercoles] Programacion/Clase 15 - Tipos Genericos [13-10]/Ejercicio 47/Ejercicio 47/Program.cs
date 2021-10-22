@@ -24,6 +24,15 @@ namespace Ejercicio_47
 
             Console.WriteLine("\t-------REGION BASQUET---------------\n");
             Console.WriteLine("\t--Añadir a la lista--\n");
+            try
+            {
+                torneoBasquet += f1;
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("\t\aEl equipo no pertenece a este torneo");
+                Console.ReadKey();
+            }
             torneoBasquet += e1;
             torneoBasquet += ebIgualeb1;
             torneoBasquet += e2;

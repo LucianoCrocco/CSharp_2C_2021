@@ -22,13 +22,15 @@ namespace Entidades
 
         public static bool operator ==(Torneo<T> listaEquipos, Equipo equipo)
         {
+
             foreach (T item in listaEquipos.equipos)
             {
-                 if(item == equipo)
+                if (item == equipo)
                 {
                     return true;
                 }
             }
+            
             return false;
         }
 
@@ -39,10 +41,35 @@ namespace Entidades
 
         public static Torneo<T> operator +(Torneo<T> listaEquipos, Equipo equipo)
         {
-            if(listaEquipos != equipo)
+            //CON IF
+            /*if(typeof(T) == equipo.GetType())
+            {
+                listaEquipos.equipos.Add((T)equipo);
+            } else
+            {
+                Console.WriteLine("\t\aEl equipo no pertenece a este torneo");
+            } */
+            // CON EXCEPCIONES
+            try
             {
                 listaEquipos.equipos.Add((T)equipo);
             }
+            catch (Exception)
+            {
+                throw;
+            }
+            
+
+            /*if (listaEquipos != equipo && listaEquipos.GetType() == equipo.GetType())//Hay alguna manera de comprobarlo o es necesario un enumerado como el ejercicio de competencias?
+            {
+                listaEquipos.equipos.Add((T)equipo);
+            }
+            else
+            {
+                //Console.WriteLine("El equipo no pertenece a este torneo");
+                Console.WriteLine($"{listaEquipos.GetType()}{equipo.GetType()}");
+                Console.ReadKey();
+            }*/
             return listaEquipos;
         }
 

@@ -65,7 +65,6 @@ namespace Entidades
         protected override string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("****MOTO*****");
             sb.AppendLine(base.MostrarDatos());
             sb.AppendLine("TIPO DE MOTO: " + this.Descripcion);
 

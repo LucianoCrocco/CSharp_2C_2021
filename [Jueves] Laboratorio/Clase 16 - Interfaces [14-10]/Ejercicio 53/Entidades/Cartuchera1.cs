@@ -34,9 +34,20 @@ namespace Entidades
         }
         #endregion
 
-        public static Cartuchera1 operator +(Cartuchera1 cartuchera, object obj)
+        public static Cartuchera1 operator +(Cartuchera1 cartuchera, IAcciones obj)
         {
-            cartuchera.acciones.Add((IAcciones)obj);
+            try
+            {
+                cartuchera.acciones.Add(obj);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine($"\a\tLa clase {obj.GetType().Name} no implementa la interfaz IAcciones");
+                Console.ReadKey();
+            }
+
+            /*if(obj is not interface )? -> O no puedo hacer un if?
+             */
 
             return cartuchera;
         }

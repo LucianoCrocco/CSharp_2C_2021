@@ -33,3 +33,4 @@ D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfa
 D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Entidades\obj\Debug\net5.0\Entidades.dll
 D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Entidades\obj\Debug\net5.0\ref\Entidades.dll
 D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Entidades\obj\Debug\net5.0\Entidades.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache

@@ -54,4 +54,3 @@ D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfa
 D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\ref\Ejercicio 52.dll
 D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.pdb
 D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.genruntimeconfig.cache
-D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 16 - Interfaces [14-10]\Ejercicio 53\Ejercicio 52\obj\Debug\net5.0\Ejercicio 52.csproj.CopyComplete

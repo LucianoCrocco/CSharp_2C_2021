@@ -104,6 +104,7 @@ namespace Entidades
         public static bool operator ==(Competencia<T> c, VehiculoDeCarrera a)
         {
             //Dos maneras de hacerlo
+
             if (c.CantidadCompetidores > 0 && ((c.Tipo == TipoCompetencia.F1 && a.GetType() == typeof(AutoF1)) || (c.Tipo == TipoCompetencia.MotoCross && a is MotoCross)))
             {
                 foreach (VehiculoDeCarrera vehiculoDeCarrera in c.Competidores)
@@ -137,7 +138,10 @@ namespace Entidades
                     if (c != a && ((c.Tipo == TipoCompetencia.F1 && a is AutoF1) || (c.Tipo == TipoCompetencia.MotoCross && a.GetType() == typeof(MotoCross))))
                     {
                         Random random = new Random();
+
+                        //try catch si no tuviese ((c.Tipo == TipoCompetencia.F1 && a.GetType() == typeof(AutoF1)) || (c.Tipo == TipoCompetencia.MotoCross && a is
                         c.competidores.Add((T)a);
+
                         a.EnCompetencia = true;
                         a.VueltasRestantes = c.CantidadVueltas;
                         a.CantidadCombustible = ((short)random.Next(15, 100));
@@ -146,7 +150,7 @@ namespace Entidades
                 }
                 catch (CompetenciaNoDisponibleException e)
                 {
-                    throw new CompetenciaNoDisponibleException("Error al cargar el vehiculo a  la competencia", "Competencia.cs", "Sobrecarga +", e);
+                    throw new CompetenciaNoDisponibleException("Error al cargar el vehiculo a la competencia", "Competencia.cs", "Sobrecarga +", e);
                 }
             } else
             {
