@@ -36,3 +36,23 @@ D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 1
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 45\Ejercicio 42\obj\Debug\net5.0\ref\Ejercicio 42.dll
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 45\Ejercicio 42\obj\Debug\net5.0\Ejercicio 42.pdb
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Jueves] Laboratorio\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\Ejercicio 45\Ejercicio 42\obj\Debug\net5.0\Ejercicio 42.genruntimeconfig.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\Ejercicio 42.exe
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\Ejercicio 42.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\Ejercicio 42.runtimeconfig.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\Ejercicio 42.runtimeconfig.dev.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\Ejercicio 42.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\ref\Ejercicio 42.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\Ejercicio 42.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\Entidades.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\IO.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\Entidades.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\bin\Debug\net5.0\IO.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\obj\Debug\net5.0\Ejercicio 42.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\obj\Debug\net5.0\Ejercicio 42.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\obj\Debug\net5.0\Ejercicio 42.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\obj\Debug\net5.0\Ejercicio 42.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\obj\Debug\net5.0\Ejercicio 42.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\obj\Debug\net5.0\Ejercicio 42.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\obj\Debug\net5.0\ref\Ejercicio 42.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\obj\Debug\net5.0\Ejercicio 42.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 54\Ejercicio 42\obj\Debug\net5.0\Ejercicio 42.genruntimeconfig.cache

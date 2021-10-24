@@ -1,0 +1,50 @@
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.exe
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.deps.json
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.runtimeconfig.json
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\ref\Form_Centralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\CentralitaException.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\EntidadesCentralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\CentralitaException.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\EntidadesCentralita.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.FrmLlamador.resources
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.FrmMenu.resources
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.FrmMostrar.resources
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.GenerateResource.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.CopyComplete
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\ref\Form_Centralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.genruntimeconfig.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.exe
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.runtimeconfig.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.runtimeconfig.dev.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\ref\Form_Centralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\CentralitaException.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\EntidadesCentralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\CentralitaException.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\bin\Debug\net5.0-windows\EntidadesCentralita.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.FrmLlamador.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.FrmMenu.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.FrmMostrar.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.GenerateResource.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.CopyComplete
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\ref\Form_Centralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.genruntimeconfig.cache

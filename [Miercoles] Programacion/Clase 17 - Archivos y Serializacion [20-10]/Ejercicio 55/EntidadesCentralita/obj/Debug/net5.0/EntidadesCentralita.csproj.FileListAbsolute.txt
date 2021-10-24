@@ -1,0 +1,28 @@
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.deps.json
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\bin\Debug\net5.0\ref\EntidadesCentralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\bin\Debug\net5.0\CentralitaException.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\bin\Debug\net5.0\CentralitaException.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\ref\EntidadesCentralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\bin\Debug\net5.0\ref\EntidadesCentralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\bin\Debug\net5.0\CentralitaException.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\bin\Debug\net5.0\CentralitaException.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\obj\Debug\net5.0\ref\EntidadesCentralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 55\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.pdb

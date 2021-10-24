@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "CentralitaException/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CentralitaException.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CentralitaException.dll": {}
+        }
+      },
+      "EntidadesCentralita/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CentralitaException": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EntidadesCentralita.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesCentralita.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CentralitaException/1.0.0": {
+      "type": "project",
+      "path": "../CentralitaException/CentralitaException.csproj",
+      "msbuildProject": "../CentralitaException/CentralitaException.csproj"
+    },
+    "EntidadesCentralita/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesCentralita/EntidadesCentralita.csproj",
+      "msbuildProject": "../EntidadesCentralita/EntidadesCentralita.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "CentralitaException >= 1.0.0",
+      "EntidadesCentralita >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lucia\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 55\\Form_Centralita\\Form_Centralita.csproj",
+      "projectName": "Form_Centralita",
+      "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 55\\Form_Centralita\\Form_Centralita.csproj",
+      "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
+      "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 55\\Form_Centralita\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 55\\CentralitaException\\CentralitaException.csproj": {
+              "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 55\\CentralitaException\\CentralitaException.csproj"
+            },
+            "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 55\\EntidadesCentralita\\EntidadesCentralita.csproj": {
+              "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 55\\EntidadesCentralita\\EntidadesCentralita.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
