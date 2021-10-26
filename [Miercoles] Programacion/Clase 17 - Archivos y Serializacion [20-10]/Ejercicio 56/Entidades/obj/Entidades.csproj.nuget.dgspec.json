@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucia\\source\\repos\\Ejercicio 56\\Entidades\\Entidades.csproj": {}
+    "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 56\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucia\\source\\repos\\Ejercicio 56\\Entidades\\Entidades.csproj": {
+    "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 56\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 56\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 56\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 56\\Entidades\\Entidades.csproj",
+        "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 56\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 56\\Entidades\\obj\\",
+        "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 56\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",

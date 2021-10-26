@@ -1,0 +1,19 @@
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\bin\Debug\net5.0\Ejercicio 57.exe
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\bin\Debug\net5.0\Ejercicio 57.deps.json
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\bin\Debug\net5.0\Ejercicio 57.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\bin\Debug\net5.0\Ejercicio 57.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\bin\Debug\net5.0\Ejercicio 57.dll
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\bin\Debug\net5.0\ref\Ejercicio 57.dll
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\bin\Debug\net5.0\Ejercicio 57.pdb
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\obj\Debug\net5.0\Ejercicio 57.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\obj\Debug\net5.0\Ejercicio 57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\obj\Debug\net5.0\Ejercicio 57.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\obj\Debug\net5.0\Ejercicio 57.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\obj\Debug\net5.0\Ejercicio 57.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\obj\Debug\net5.0\Ejercicio 57.dll
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\obj\Debug\net5.0\ref\Ejercicio 57.dll
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\obj\Debug\net5.0\Ejercicio 57.pdb
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\obj\Debug\net5.0\Ejercicio 57.genruntimeconfig.cache
+C:\Users\Lucia\source\repos\Ejercicio 57\Ejercicio 57\obj\Debug\net5.0\Ejercicio 57.csproj.CopyComplete

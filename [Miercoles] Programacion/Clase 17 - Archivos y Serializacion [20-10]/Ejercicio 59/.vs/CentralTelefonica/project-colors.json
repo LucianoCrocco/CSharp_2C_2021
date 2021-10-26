@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48183a16-1681-4240-aee5-f9c08429e535": {
+      "ProjectGuid": "48183a16-1681-4240-aee5-f9c08429e535",
+      "DisplayName": "CentralTelefonica",
+      "ColorIndex": 0
+    },
+    "175d3c2d-b7b4-4047-85c1-a05d36498c57": {
+      "ProjectGuid": "175d3c2d-b7b4-4047-85c1-a05d36498c57",
+      "DisplayName": "CentralitaException",
+      "ColorIndex": 1
+    },
+    "bc3babde-d13e-4ed3-aa4e-5811284f9958": {
+      "ProjectGuid": "bc3babde-d13e-4ed3-aa4e-5811284f9958",
+      "DisplayName": "Testing",
+      "ColorIndex": 2
+    },
+    "c833d80a-627e-49c0-979e-5ae4a3fe86e4": {
+      "ProjectGuid": "c833d80a-627e-49c0-979e-5ae4a3fe86e4",
+      "DisplayName": "Form_Centralita",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

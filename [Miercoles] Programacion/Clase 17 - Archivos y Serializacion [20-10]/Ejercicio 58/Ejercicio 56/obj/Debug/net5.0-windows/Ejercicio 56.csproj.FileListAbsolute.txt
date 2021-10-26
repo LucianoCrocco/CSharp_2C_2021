@@ -1,0 +1,21 @@
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\bin\Debug\net5.0-windows\Ejercicio 56.exe
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\bin\Debug\net5.0-windows\Ejercicio 56.deps.json
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\bin\Debug\net5.0-windows\Ejercicio 56.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\bin\Debug\net5.0-windows\Ejercicio 56.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\bin\Debug\net5.0-windows\Ejercicio 56.dll
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\bin\Debug\net5.0-windows\ref\Ejercicio 56.dll
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\bin\Debug\net5.0-windows\Ejercicio 56.pdb
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio 56.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio_56.Frm_Principal.resources
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio 56.csproj.GenerateResource.cache
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio 56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio 56.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio 56.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio 56.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio 56.dll
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\ref\Ejercicio 56.dll
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio 56.pdb
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio 56.genruntimeconfig.cache
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Lucia\source\repos\Ejercicio 56\Ejercicio 56\obj\Debug\net5.0-windows\Ejercicio_56.Properties.Resources.resources
