@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\TestSerializacionUnObjeto\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\Ejercicios Extra\\Test Serializacion Lista Objetos\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Lucia\\source\\repos\\TestSerializacionUnObjeto\\Entidades\\Entidades.csproj",
+      "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\Ejercicios Extra\\Test Serializacion Lista Objetos\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucia\\source\\repos\\TestSerializacionUnObjeto\\Entidades\\obj\\",
+      "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\Ejercicios Extra\\Test Serializacion Lista Objetos\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",

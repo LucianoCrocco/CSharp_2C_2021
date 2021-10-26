@@ -30,7 +30,7 @@ namespace PruebaSerializacion
             
             try
             {
-                archivoTexto.Guardar(jsonSerializacion, $"{Environment.CurrentDirectory}\\SerializacionJSON.json");
+                archivoTexto.Guardar(jsonSerializacion, $"{Environment.CurrentDirectory}\\SerializacionJSON.json",false);
                 Console.WriteLine("Serializado JSON correctamente como: " + jsonSerializacion);
                 Console.WriteLine("Guardado correctamente");
 

@@ -17,8 +17,8 @@
   "libraries": {
     "Entidades/1.0.0": {
       "type": "project",
-      "path": "../../TestSerializacionUnObjeto/Entidades/Entidades.csproj",
-      "msbuildProject": "../../TestSerializacionUnObjeto/Entidades/Entidades.csproj"
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\TestSerializacionListaObjetos\\TestSerializacionListaObjetos\\TestSerializacionListaObjetos.csproj",
+      "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\Ejercicios Extra\\Test Serializacion Lista Objetos\\TestSerializacionListaObjetos\\TestSerializacionListaObjetos.csproj",
       "projectName": "TestSerializacionListaObjetos",
-      "projectPath": "C:\\Users\\Lucia\\source\\repos\\TestSerializacionListaObjetos\\TestSerializacionListaObjetos\\TestSerializacionListaObjetos.csproj",
+      "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\Ejercicios Extra\\Test Serializacion Lista Objetos\\TestSerializacionListaObjetos\\TestSerializacionListaObjetos.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucia\\source\\repos\\TestSerializacionListaObjetos\\TestSerializacionListaObjetos\\obj\\",
+      "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\Ejercicios Extra\\Test Serializacion Lista Objetos\\TestSerializacionListaObjetos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Lucia\\source\\repos\\TestSerializacionUnObjeto\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Lucia\\source\\repos\\TestSerializacionUnObjeto\\Entidades\\Entidades.csproj"
+            "D:\\1. Cursos Programacion\\CSharp_2C_2021\\Ejercicios Extra\\Test Serializacion Lista Objetos\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\Ejercicios Extra\\Test Serializacion Lista Objetos\\Entidades\\Entidades.csproj"
             }
           }
         }

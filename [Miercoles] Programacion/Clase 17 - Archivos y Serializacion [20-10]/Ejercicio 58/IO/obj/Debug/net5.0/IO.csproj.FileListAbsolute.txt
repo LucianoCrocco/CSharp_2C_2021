@@ -1,0 +1,12 @@
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\bin\Debug\net5.0\IO.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\bin\Debug\net5.0\IO.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\bin\Debug\net5.0\ref\IO.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\bin\Debug\net5.0\IO.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\obj\Debug\net5.0\IO.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\obj\Debug\net5.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\obj\Debug\net5.0\IO.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\obj\Debug\net5.0\IO.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\obj\Debug\net5.0\IO.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\obj\Debug\net5.0\IO.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\obj\Debug\net5.0\ref\IO.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 17 - Archivos y Serializacion [20-10]\Ejercicio 58\IO\obj\Debug\net5.0\IO.pdb

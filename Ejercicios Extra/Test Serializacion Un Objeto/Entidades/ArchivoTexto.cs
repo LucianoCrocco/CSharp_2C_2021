@@ -10,12 +10,12 @@ namespace Entidades
     public class ArchivoTexto : IArchivo<string>
     {
 
-        public void Guardar(string dato, string path)
+        public void Guardar(string dato, string path, bool append)
         {
             if (!String.IsNullOrWhiteSpace(path)){
                 try
                 {
-                    StreamWriter sw = new StreamWriter(path);
+                    StreamWriter sw = new StreamWriter(path, append);
                     sw.WriteLine(dato);
                     sw.Close();
                 }

@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/Entidades.dll": {}
         }
+      },
+      "IO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/IO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IO.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../Entidades/Entidades.csproj",
       "msbuildProject": "../Entidades/Entidades.csproj"
+    },
+    "IO/1.0.0": {
+      "type": "project",
+      "path": "../IO/IO.csproj",
+      "msbuildProject": "../IO/IO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "Entidades >= 1.0.0"
+      "Entidades >= 1.0.0",
+      "IO >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +71,9 @@
           "projectReferences": {
             "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 58\\Entidades\\Entidades.csproj": {
               "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 58\\Entidades\\Entidades.csproj"
+            },
+            "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 58\\IO\\IO.csproj": {
+              "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 17 - Archivos y Serializacion [20-10]\\Ejercicio 58\\IO\\IO.csproj"
             }
           }
         }

@@ -8,23 +8,31 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Entidades;
+using IO;
 
 namespace Ejercicio_56
 {
     public partial class Frm_Principal : Form
     {
         ArchivoTexto archivoTexto;
+        PuntoTXT puntoTxt;
+        PuntoDAT puntoDat;
+
         private string path = null;
         public Frm_Principal()
         {
             InitializeComponent();
             archivoTexto = new ArchivoTexto();
+            puntoTxt = new PuntoTXT();
+            puntoDat = new PuntoDAT();
         }
 
 
         private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Title = "Seleccione el archivo a abrir";
+            openFileDialog.Filter = "Archivos de texto (.txt) |*.txt|Archivos de datos (.dat)|*.dat||*.*";
             string lectura;
 
             if(openFileDialog.ShowDialog() == DialogResult.OK)
@@ -51,7 +59,9 @@ namespace Ejercicio_56
         private void guardarComoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             saveFileDialog1 = new SaveFileDialog();
-            if(saveFileDialog1.ShowDialog() == DialogResult.OK)
+            saveFileDialog1.Title = "Seleccione el archivo a guardar";
+            saveFileDialog1.Filter = "Archivos de texto (.txt) |*.txt|Archivos de datos (.dat)|*.dat||*.*";
+            if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 path = saveFileDialog1.FileName;
                 try
