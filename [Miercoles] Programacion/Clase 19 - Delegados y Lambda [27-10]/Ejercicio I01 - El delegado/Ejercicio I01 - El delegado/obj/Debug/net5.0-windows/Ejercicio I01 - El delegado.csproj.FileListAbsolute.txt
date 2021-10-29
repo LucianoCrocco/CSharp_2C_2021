@@ -1,0 +1,20 @@
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\bin\Debug\net5.0-windows\Ejercicio I01 - El delegado.exe
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\bin\Debug\net5.0-windows\Ejercicio I01 - El delegado.deps.json
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\bin\Debug\net5.0-windows\Ejercicio I01 - El delegado.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\bin\Debug\net5.0-windows\Ejercicio I01 - El delegado.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\bin\Debug\net5.0-windows\Ejercicio I01 - El delegado.dll
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\bin\Debug\net5.0-windows\ref\Ejercicio I01 - El delegado.dll
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\bin\Debug\net5.0-windows\Ejercicio I01 - El delegado.pdb
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio I01 - El delegado.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio_I01___El_delegado.FrmMostrar.resources
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio_I01___El_delegado.FrmPrincipal.resources
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio_I01___El_delegado.FrmTestDelegados.resources
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio I01 - El delegado.csproj.GenerateResource.cache
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio I01 - El delegado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio I01 - El delegado.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio I01 - El delegado.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio I01 - El delegado.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio I01 - El delegado.dll
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\ref\Ejercicio I01 - El delegado.dll
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio I01 - El delegado.pdb
+C:\Users\Lucia\source\repos\Ejercicio I01 - El delegado\Ejercicio I01 - El delegado\obj\Debug\net5.0-windows\Ejercicio I01 - El delegado.genruntimeconfig.cache

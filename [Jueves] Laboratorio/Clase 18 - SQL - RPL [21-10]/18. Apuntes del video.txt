@@ -45,7 +45,7 @@ RIGHT JOIN -> Toma la "derecha" y la interseccion de las tablas que se relaciona
 	Modificacion, se lo conoce como comandos/sentencias SQL
 
 - INSERT | Agrego datos
-INSERT INTO (Tabla) (Valores tiene la tabla) VALUE (Valores de que se insertan en la tabla) ->  Inserta en la tabla una fila con los datos que le pase en VALUE. Agregando una ',' puedo agregar mas de una instancia. 
+INSERT INTO (Tabla) (Valores tiene la tabla) VALUES (Valores de que se insertan en la tabla) ->  Inserta en la tabla una fila con los datos que le pase en VALUE. Agregando una ',' puedo agregar mas de una instancia. 
 
 INSERT INTO (Tabla) (Valores tiene la tabla) select (Valores a insertar de la otra tabla) FROM (esa "otra tabla" a insertar) -> Inserto los datos de una tabla a mi tabla actual.
 

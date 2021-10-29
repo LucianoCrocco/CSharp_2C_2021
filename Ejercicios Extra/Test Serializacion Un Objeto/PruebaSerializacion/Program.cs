@@ -17,7 +17,7 @@ namespace PruebaSerializacion
             ArchivoTexto archivoTexto = new ArchivoTexto();
             string path;
             Console.WriteLine(p1.ToString());
-            Persona persona;
+            Persona persona = null;
 
             #region Json
 
@@ -27,14 +27,15 @@ namespace PruebaSerializacion
             string jsonDeserializado = "";
 
             //Para serializar en un archivo, vamos a utilizar la manera que aprendimos con Archivos.
-            
+
             try
             {
-                archivoTexto.Guardar(jsonSerializacion, $"{Environment.CurrentDirectory}\\SerializacionJSON.json",false);
+                archivoTexto.Guardar(jsonSerializacion, $"{Environment.CurrentDirectory}\\SerializacionJSON.json", false);
                 Console.WriteLine("Serializado JSON correctamente como: " + jsonSerializacion);
                 Console.WriteLine("Guardado correctamente");
 
-            } catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
@@ -78,6 +79,10 @@ namespace PruebaSerializacion
                 Console.WriteLine(ex.Message);
             }
 
+            //path = $"{Environment.CurrentDirectory}\\SerializacionLista.XML";
+            //XmlTextReader leerObjeto = new XmlTextReader(path);
+
+          
             try
             {
                 persona = (Persona)serializarObjeto.Deserialize(leerObjeto);
@@ -85,7 +90,11 @@ namespace PruebaSerializacion
                 Console.WriteLine("Leido correctamente");
 
             }
-            catch (Exception ex)
+            catch (InvalidOperationException ex)//Si intento cargar un xml de manera incorrecta me lanza este error.
+            {
+                Console.WriteLine(ex.Message);
+
+            } catch(Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
@@ -98,7 +107,7 @@ namespace PruebaSerializacion
             path = $"{Environment.CurrentDirectory}\\Serializacion.dat";
             Stream fileStream = new FileStream(path, FileMode.OpenOrCreate);//Create para crear,Open para abrir
             BinaryFormatter objetoASerializar = new BinaryFormatter();
-            
+
             try
             {
                 objetoASerializar.Serialize(fileStream, persona);

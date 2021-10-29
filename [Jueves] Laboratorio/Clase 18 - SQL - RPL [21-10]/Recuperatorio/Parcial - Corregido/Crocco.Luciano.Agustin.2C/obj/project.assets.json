@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Entidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lucia\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Recuperatorio\\Crocco.Luciano.Agustin.2C - Corregido\\Crocco.Luciano.Agustin.2C\\Crocco.Luciano.Agustin.2C.csproj",
+      "projectName": "Crocco.Luciano.Agustin.2C",
+      "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Recuperatorio\\Crocco.Luciano.Agustin.2C - Corregido\\Crocco.Luciano.Agustin.2C\\Crocco.Luciano.Agustin.2C.csproj",
+      "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
+      "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Recuperatorio\\Crocco.Luciano.Agustin.2C - Corregido\\Crocco.Luciano.Agustin.2C\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Recuperatorio\\Crocco.Luciano.Agustin.2C - Corregido\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Recuperatorio\\Crocco.Luciano.Agustin.2C - Corregido\\Entidades\\Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
