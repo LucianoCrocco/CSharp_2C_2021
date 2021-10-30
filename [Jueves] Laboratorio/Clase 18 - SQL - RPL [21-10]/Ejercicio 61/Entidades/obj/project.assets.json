@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 61\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Ejercicio 61\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 61\\Entidades\\Entidades.csproj",
+      "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Ejercicio 61\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 61\\Entidades\\obj\\",
+      "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Ejercicio 61\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,11 @@
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\bin\Debug\net5.0\CentralitaException.deps.json
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\bin\Debug\net5.0\CentralitaException.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\bin\Debug\net5.0\ref\CentralitaException.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\bin\Debug\net5.0\CentralitaException.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\obj\Debug\net5.0\CentralitaException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\obj\Debug\net5.0\CentralitaException.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\obj\Debug\net5.0\CentralitaException.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\obj\Debug\net5.0\CentralitaException.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\obj\Debug\net5.0\CentralitaException.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\obj\Debug\net5.0\ref\CentralitaException.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaException\obj\Debug\net5.0\CentralitaException.pdb

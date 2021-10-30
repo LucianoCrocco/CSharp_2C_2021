@@ -1,0 +1,16 @@
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.deps.json
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\bin\Debug\net5.0\ref\EntidadesDAO.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\bin\Debug\net5.0\CentralitaException.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\bin\Debug\net5.0\EntidadesCentralita.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\bin\Debug\net5.0\EntidadesCentralita.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\bin\Debug\net5.0\CentralitaException.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\obj\Debug\net5.0\ref\EntidadesDAO.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.pdb

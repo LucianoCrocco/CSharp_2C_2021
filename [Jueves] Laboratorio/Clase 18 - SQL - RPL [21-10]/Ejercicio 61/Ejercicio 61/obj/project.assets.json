@@ -478,11 +478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 61\\Ejercicio 61\\Ejercicio 61.csproj",
+      "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Ejercicio 61\\Ejercicio 61\\Ejercicio 61.csproj",
       "projectName": "Ejercicio 61",
-      "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 61\\Ejercicio 61\\Ejercicio 61.csproj",
+      "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Ejercicio 61\\Ejercicio 61\\Ejercicio 61.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 61\\Ejercicio 61\\obj\\",
+      "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Ejercicio 61\\Ejercicio 61\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -499,8 +499,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Lucia\\source\\repos\\Ejercicio 61\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 61\\Entidades\\Entidades.csproj"
+            "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Ejercicio 61\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Ejercicio 61\\Entidades\\Entidades.csproj"
             }
           }
         }

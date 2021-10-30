@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eCefUb3U7t1Ln+Odqb3t9sy5QHiZFp+1JgRS2T5ZEsBKKYYRkSEUj/ME4w+QSjCA2ELFQABSB7M7TGvY7KWynA==",
+  "dgSpecHash": "4x8JnRpnCQMbOu0+0/KlDy+nW6I84XFRqHKbUUXOFPtS8ECPZsARfFePmXqNLXSBj81ko+cM9eBSahDf1OzRng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio 61\\Ejercicio 61\\Ejercicio 61.csproj",
+  "projectFilePath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 18 - SQL - RPL [21-10]\\Ejercicio 61\\Ejercicio 61\\Ejercicio 61.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucia\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Lucia\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
