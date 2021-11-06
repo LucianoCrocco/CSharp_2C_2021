@@ -30,3 +30,36 @@ C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-w
 C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\EntidadesDAO.dll
 C:\Users\Lucia\source\repos\CentralTelefonica\Form_Centralita\bin\Debug\net5.0-windows\EntidadesDAO.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.exe
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.runtimeconfig.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.runtimeconfig.dev.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\ref\Form_Centralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\Form_Centralita.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\CentralitaException.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\EntidadesCentralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\EntidadesDAO.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\CentralitaException.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\EntidadesCentralita.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\bin\Debug\net5.0-windows\EntidadesDAO.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.FrmLlamador.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.FrmMenu.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.FrmMostrar.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.GenerateResource.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.csproj.CopyComplete
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\ref\Form_Centralita.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 18 - SQL - RPL [21-10]\Ejercicio 62\Form_Centralita\obj\Debug\net5.0-windows\Form_Centralita.genruntimeconfig.cache

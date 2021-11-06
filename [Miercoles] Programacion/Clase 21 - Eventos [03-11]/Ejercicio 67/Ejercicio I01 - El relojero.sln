@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I01 - El relojero", "Ejercicio I01 - El relojero\Ejercicio I01 - El relojero.csproj", "{35F8DF12-8F48-4D45-B134-861067942764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{22F29A04-9C31-41A5-AB88-F199E2E6E104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F8DF12-8F48-4D45-B134-861067942764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F8DF12-8F48-4D45-B134-861067942764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F8DF12-8F48-4D45-B134-861067942764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F8DF12-8F48-4D45-B134-861067942764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F29A04-9C31-41A5-AB88-F199E2E6E104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F29A04-9C31-41A5-AB88-F199E2E6E104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F29A04-9C31-41A5-AB88-F199E2E6E104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F29A04-9C31-41A5-AB88-F199E2E6E104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCD753B6-E8F9-4CC2-9E0A-ED9B0B78FE48}
+	EndGlobalSection
+EndGlobal

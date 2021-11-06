@@ -1,0 +1,3 @@
+JSON puede serializar y deserializar un objeto que sea null, lo serializa como null y lo deserializa como null.
+XML puede serializar y deserializar un objeto que sea null, le asigna el valor: xsi:nil="true" en el xml.
+El binario si da error si quiero serializar en null. Tambien da un error si lo quiero deserializar.

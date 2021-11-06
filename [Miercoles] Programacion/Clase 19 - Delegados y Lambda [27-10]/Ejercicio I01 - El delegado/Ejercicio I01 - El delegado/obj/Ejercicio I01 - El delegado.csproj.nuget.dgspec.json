@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucia\\source\\repos\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado.csproj": {}
+    "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 19 - Delegados y Lambda [27-10]\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucia\\source\\repos\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado.csproj": {
+    "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 19 - Delegados y Lambda [27-10]\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado.csproj",
+        "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 19 - Delegados y Lambda [27-10]\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado.csproj",
         "projectName": "Ejercicio I01 - El delegado",
-        "projectPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado.csproj",
+        "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 19 - Delegados y Lambda [27-10]\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucia\\source\\repos\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado\\obj\\",
+        "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Miercoles] Programacion\\Clase 19 - Delegados y Lambda [27-10]\\Ejercicio I01 - El delegado\\Ejercicio I01 - El delegado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",

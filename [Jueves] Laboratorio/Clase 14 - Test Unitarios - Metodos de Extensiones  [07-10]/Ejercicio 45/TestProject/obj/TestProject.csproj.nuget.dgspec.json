@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\TestProject\\TestProject.csproj": {}
+    "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\Entidades.csproj": {
+    "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\Entidades.csproj",
+        "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\obj\\",
+        "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,25 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\TestProject\\TestProject.csproj": {
+    "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\TestProject\\TestProject.csproj",
+        "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\TestProject\\obj\\",
+        "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\Entidades.csproj": {
-                "projectPath": "D:\\Cursos\\2C-2021-programacion_2_laboratorio_2_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\Entidades.csproj"
+              "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 14 - Test Unitarios - Metodos de Extensiones  [07-10]\\Ejercicio 45\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -138,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

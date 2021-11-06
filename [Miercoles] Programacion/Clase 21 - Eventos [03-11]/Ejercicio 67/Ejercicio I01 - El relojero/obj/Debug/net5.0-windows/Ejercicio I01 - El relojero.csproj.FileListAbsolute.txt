@@ -1,0 +1,84 @@
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.exe
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.deps.json
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.dll
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\ref\Ejercicio I01 - El relojero.dll
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.pdb
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio_I01___El_relojero.FormPrincipal.resources
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.GenerateResource.cache
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.dll
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\ref\Ejercicio I01 - El relojero.dll
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.pdb
+C:\Users\Lucia\source\repos\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.genruntimeconfig.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Prog multi-hilo y Concurrencia [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Prog multi-hilo y Concurrencia [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio_I01___El_relojero.FormPrincipal.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Prog multi-hilo y Concurrencia [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.GenerateResource.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Prog multi-hilo y Concurrencia [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Prog multi-hilo y Concurrencia [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Prog multi-hilo y Concurrencia [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\ref\Ejercicio I01 - El relojero.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Prog multi-hilo y Concurrencia [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.exe
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.runtimeconfig.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.runtimeconfig.dev.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\ref\Ejercicio I01 - El relojero.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio_I01___El_relojero.FormPrincipal.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.GenerateResource.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\ref\Ejercicio I01 - El relojero.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 20 - Hilos [28-10]\Ejercicio I01 - El relojero\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.genruntimeconfig.cache
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.exe
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.deps.json
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.runtimeconfig.json
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.runtimeconfig.dev.json
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.dll
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\ref\Ejercicio I01 - El relojero.dll
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.pdb
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio_I01___El_relojero.FormPrincipal.resources
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.GenerateResource.cache
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.dll
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\ref\Ejercicio I01 - El relojero.dll
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.pdb
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.genruntimeconfig.cache
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Lucia\source\repos\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.CopyComplete
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.exe
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.runtimeconfig.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.runtimeconfig.dev.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\ref\Ejercicio I01 - El relojero.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Ejercicio I01 - El relojero.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Entidades.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\bin\Debug\net5.0-windows\Entidades.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio_I01___El_relojero.FormPrincipal.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.GenerateResource.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\ref\Ejercicio I01 - El relojero.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 21 - Eventos [03-11]\Ejercicio 67\Ejercicio I01 - El relojero\obj\Debug\net5.0-windows\Ejercicio I01 - El relojero.genruntimeconfig.cache

@@ -16,7 +16,7 @@ namespace PruebaSerializacion
             Persona p1 = new Persona("Luciano", "Crocco", 21);
             ArchivoTexto archivoTexto = new ArchivoTexto();
             string path;
-            Console.WriteLine(p1.ToString());
+            //Console.WriteLine(p1.ToString());
             Persona persona = null;
 
             #region Json
@@ -82,7 +82,7 @@ namespace PruebaSerializacion
             //path = $"{Environment.CurrentDirectory}\\SerializacionLista.XML";
             //XmlTextReader leerObjeto = new XmlTextReader(path);
 
-          
+
             try
             {
                 persona = (Persona)serializarObjeto.Deserialize(leerObjeto);
@@ -94,7 +94,8 @@ namespace PruebaSerializacion
             {
                 Console.WriteLine(ex.Message);
 
-            } catch(Exception ex)
+            }
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
