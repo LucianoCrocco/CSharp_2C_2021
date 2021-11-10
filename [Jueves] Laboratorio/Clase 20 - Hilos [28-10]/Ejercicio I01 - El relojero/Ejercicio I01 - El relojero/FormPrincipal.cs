@@ -13,6 +13,7 @@ namespace Ejercicio_I01___El_relojero
 {
     public partial class FormPrincipal : Form
     {
+        public delegate void MiDelegado();
         Task tarea;
         public FormPrincipal()
         {
@@ -40,8 +41,10 @@ namespace Ejercicio_I01___El_relojero
         {
             if (lblHora.InvokeRequired)
             {
-                Action action = AsignarHora;
-                this.Invoke(action);
+                //Action action = AsignarHora;
+                //MiDelegado miDelegado = new MiDelegado(AsignarHora);
+                MiDelegado miDelegado = AsignarHora;
+                this.Invoke(miDelegado);
             } 
             else
             {
@@ -49,9 +52,9 @@ namespace Ejercicio_I01___El_relojero
             }
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            this.AsignarHora();
-        }
+        //private void timer1_Tick(object sender, EventArgs e)
+        //{
+        //    this.AsignarHora();
+        //}
     }
 }

@@ -27,6 +27,7 @@ namespace Entidades
             {
                 if(value && Activo is false)
                 {
+                    //Genera mi hilo secundario con la funcion Corriendo
                     this.hilo = new Task(Corriendo);
                     this.hilo.Start();
                 }
@@ -40,7 +41,7 @@ namespace Entidades
         public int Intervalo { get => intervalo; set => intervalo = value; }
 
 
-
+        //La funcion corriendo, ejecutandose en un segundo hilo. Va a ejecutar los metodos asociados al delegado de mi evento, ejecutando el evento en si.
         public void Corriendo()
         {
             if(this.EventoTiempo is not null)

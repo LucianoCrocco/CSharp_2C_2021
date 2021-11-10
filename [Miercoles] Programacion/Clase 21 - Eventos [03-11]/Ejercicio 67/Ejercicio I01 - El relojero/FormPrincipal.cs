@@ -19,11 +19,13 @@ namespace Ejercicio_I01___El_relojero
         {
             InitializeComponent();
             temporizador = new Temporizador();
+            //Asocio un metodo al delegado que a su vez lo asocia al evento.
             temporizador.EventoTiempo += ActualizarHora;
         }
 
         private void FormPrincipal_Load(object sender, EventArgs e)
         {
+            //Inicializo mi hilo con sus metodos asociados.
             temporizador.Activo = true;
             temporizador.Intervalo = 1000;
         }
@@ -38,7 +40,8 @@ namespace Ejercicio_I01___El_relojero
 
         public void AsignarHora()
         {
-            if (this.InvokeRequired)
+            //Asignar hora se esta ejecutando en un hilo secundario, por lo tanto tengo que volver a llamarlo para que se ejecute en el principal para modificar mi hilo principal
+            if (lblHora.InvokeRequired)
             {
                 EncargadoTiempo callback = new EncargadoTiempo(AsignarHora);
                 this.Invoke(callback);

@@ -53,10 +53,6 @@ namespace Ejercicio_I01___El_relojero
             this.lblHora.TabIndex = 1;
             this.lblHora.Text = "lblHora";
             // 
-            // timer1
-            // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
             // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
