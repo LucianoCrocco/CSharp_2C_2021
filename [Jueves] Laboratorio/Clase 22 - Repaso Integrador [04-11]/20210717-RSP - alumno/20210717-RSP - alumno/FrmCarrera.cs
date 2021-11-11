@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Entidades;
 
 
 namespace _20210717_RSP___alumno
@@ -19,8 +20,6 @@ namespace _20210717_RSP___alumno
         private Task tarea;
         private AutoF1 v1;
         private AutoF1 v2;
-        
-        
 
 
         public FrmCarrera()
@@ -48,12 +47,10 @@ namespace _20210717_RSP___alumno
         private void FrmCarrera_Shown(object sender, EventArgs e)
         {
             //cuando se muestra el FRM instancio el Hilo y lo inicio
+            tarea = new Task(carrera.IniciarCarrera);
+            tarea.Start();
 
         }
-
-
-
-
 
 
 
@@ -64,8 +61,16 @@ namespace _20210717_RSP___alumno
         private void AvanzarAuto()
         {
             //Alumno:Metodo que maneja el evento InformarAvance
-            this.pcbAutoUno.Location = new Point(this.v1.UbicacionEnPista, this.pcbAutoUno.Location.Y);
-            this.pcbAutoDos.Location = new Point(this.v2.UbicacionEnPista, this.pcbAutoDos.Location.Y);
+            if (this.InvokeRequired)
+            {
+                InformacionDeAvance callback = AvanzarAuto;
+                this.Invoke(callback);
+            }
+            else
+            {
+                this.pcbAutoUno.Location = new Point(this.v1.UbicacionEnPista, this.pcbAutoUno.Location.Y);
+                this.pcbAutoDos.Location = new Point(this.v2.UbicacionEnPista, this.pcbAutoDos.Location.Y);
+            }
 
         }
 
@@ -73,6 +78,8 @@ namespace _20210717_RSP___alumno
         {
             this.InitializeAutosYCarrera();
             //Alumno:Metodo donde se agregaran los manejadores al evento de carrera
+            this.carrera.InformarAvance += AvanzarAuto;
+            this.carrera.InformarLlegada += ImprimirMensaje;
 
         }
         /// <summary>
@@ -82,7 +89,16 @@ namespace _20210717_RSP___alumno
         private void ImprimirMensaje(string mensaje)
         {
             //Alumno:Metodo que maneja el evento InformarLlegada
-            MessageBox.Show(mensaje, "Llegadas", MessageBoxButtons.OK, MessageBoxIcon.Hand);
+            if (this.InvokeRequired)
+            {
+                InformacionLlegada callback = ImprimirMensaje;
+                this.Invoke(callback);
+            }
+            else
+            {
+                MessageBox.Show(mensaje, "Llegadas", MessageBoxButtons.OK, MessageBoxIcon.Hand);
+            }
+            
         }
 
 
@@ -92,6 +108,15 @@ namespace _20210717_RSP___alumno
             {
                 this.DialogResult = DialogResult.OK; //Establezco el resultado en OK para finalizar el primer FORM
                 //Alumno:serializar carrera
+                try
+                {
+                    GestorDeArchivos gda = new GestorDeArchivos("Carrera.xml");
+                    gda.Guardar(this.carrera);
+                }
+                catch(Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
             }
             else
             {

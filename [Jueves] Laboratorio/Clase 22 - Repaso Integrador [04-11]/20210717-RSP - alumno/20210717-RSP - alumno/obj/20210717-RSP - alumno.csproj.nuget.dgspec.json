@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Facultad\\5-Ayudantia\\Proyectos C#\\C1 2021\\Parciales\\Propios\\NetCore\\Para Enviar\\20210717-RSP - alumno\\20210717-RSP - alumno\\20210717-RSP - alumno.csproj": {}
+    "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\20210717-RSP - alumno\\20210717-RSP - alumno.csproj": {}
   },
   "projects": {
-    "F:\\Facultad\\5-Ayudantia\\Proyectos C#\\C1 2021\\Parciales\\Propios\\NetCore\\Para Enviar\\20210717-RSP - alumno\\20210717-RSP - alumno\\20210717-RSP - alumno.csproj": {
+    "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\20210717-RSP - alumno\\20210717-RSP - alumno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Facultad\\5-Ayudantia\\Proyectos C#\\C1 2021\\Parciales\\Propios\\NetCore\\Para Enviar\\20210717-RSP - alumno\\20210717-RSP - alumno\\20210717-RSP - alumno.csproj",
+        "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\20210717-RSP - alumno\\20210717-RSP - alumno.csproj",
         "projectName": "20210717-RSP - alumno",
-        "projectPath": "F:\\Facultad\\5-Ayudantia\\Proyectos C#\\C1 2021\\Parciales\\Propios\\NetCore\\Para Enviar\\20210717-RSP - alumno\\20210717-RSP - alumno\\20210717-RSP - alumno.csproj",
-        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "F:\\Facultad\\5-Ayudantia\\Proyectos C#\\C1 2021\\Parciales\\Propios\\NetCore\\Para Enviar\\20210717-RSP - alumno\\20210717-RSP - alumno\\obj\\",
+        "projectPath": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\20210717-RSP - alumno\\20210717-RSP - alumno.csproj",
+        "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\20210717-RSP - alumno\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,7 +27,11 @@
         "frameworks": {
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\Entidades\\Entidades.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,6 +59,66 @@
             },
             "Microsoft.WindowsDesktop.App.WindowsForms": {
               "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
