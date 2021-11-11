@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wsZmc60V7QHedw6GO6+Cc4Sfza32HyJgjdT44qmnMfZnlHF7me1Gp4NxxrEuhJYILs+Xf3M75B+SdrBBUhuMSA==",
+  "dgSpecHash": "dsQZGKTgK2Ox3TG/qcj+GlBsfANr5NAz1HqFpo8Vyuqx2F/oTMBEQc1vQCpRHbdId0bKAj99hzZ3lgssZMyk8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\20210717-RSP - alumno\\20210717-RSP - alumno.csproj",
+  "projectFilePath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 22 - Repaso Integrador [04-11]\\20210717-RSP - alumno\\20210717-RSP - alumno\\20210717-RSP - alumno.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucia\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Lucia\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

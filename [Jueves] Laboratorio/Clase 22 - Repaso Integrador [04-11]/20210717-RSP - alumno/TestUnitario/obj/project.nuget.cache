@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3KZm0Kv29eLOAFcldPmWzW3ASuXJHd/PN+l3WkaseW0b5clQZjVdJ1NUHEk67Br7V6UkvdY/Muu2WXPDaLH9Yw==",
+  "dgSpecHash": "0hNusFDtXegwGWXINULzKRWinig0g2r9Nyd060pcXtVnu/dJVepaAkBK6HDDNwawaSaoSzO1Snzg0UTZKhNLQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\TestUnitario\\TestUnitario.csproj",
+  "projectFilePath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 22 - Repaso Integrador [04-11]\\20210717-RSP - alumno\\TestUnitario\\TestUnitario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucia\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Lucia\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

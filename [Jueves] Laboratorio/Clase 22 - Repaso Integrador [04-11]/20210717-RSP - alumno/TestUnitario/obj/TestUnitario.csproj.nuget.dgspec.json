@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\TestUnitario\\TestUnitario.csproj": {}
+    "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 22 - Repaso Integrador [04-11]\\20210717-RSP - alumno\\TestUnitario\\TestUnitario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\TestUnitario\\TestUnitario.csproj": {
+    "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 22 - Repaso Integrador [04-11]\\20210717-RSP - alumno\\TestUnitario\\TestUnitario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\TestUnitario\\TestUnitario.csproj",
+        "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 22 - Repaso Integrador [04-11]\\20210717-RSP - alumno\\TestUnitario\\TestUnitario.csproj",
         "projectName": "TestUnitario",
-        "projectPath": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\TestUnitario\\TestUnitario.csproj",
+        "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 22 - Repaso Integrador [04-11]\\20210717-RSP - alumno\\TestUnitario\\TestUnitario.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucia\\source\\repos\\20210717-RSP - alumno\\TestUnitario\\obj\\",
+        "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 22 - Repaso Integrador [04-11]\\20210717-RSP - alumno\\TestUnitario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
