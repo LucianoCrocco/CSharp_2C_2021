@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Archivos
+build_property.ProjectDir = D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 26 - Repaso [18-11]\SP - Corregido\Archivos\

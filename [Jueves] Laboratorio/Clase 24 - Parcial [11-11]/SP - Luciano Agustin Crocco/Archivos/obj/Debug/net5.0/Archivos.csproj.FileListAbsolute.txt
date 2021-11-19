@@ -10,11 +10,3 @@ C:\Users\Lucia\Desktop\20211111-SP - Luciano Agustin Crocco\20211111-SP - Lucian
 C:\Users\Lucia\Desktop\20211111-SP - Luciano Agustin Crocco\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\Archivos.dll
 C:\Users\Lucia\Desktop\20211111-SP - Luciano Agustin Crocco\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\ref\Archivos.dll
 C:\Users\Lucia\Desktop\20211111-SP - Luciano Agustin Crocco\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\Archivos.pdb
-D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 24 - Parcial [11-11]\Segundo Parcial\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\Archivos.csproj.AssemblyReference.cache
-D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 24 - Parcial [11-11]\Segundo Parcial\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\Archivos.GeneratedMSBuildEditorConfig.editorconfig
-D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 24 - Parcial [11-11]\Segundo Parcial\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfoInputs.cache
-D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 24 - Parcial [11-11]\Segundo Parcial\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfo.cs
-D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 24 - Parcial [11-11]\Segundo Parcial\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\Archivos.csproj.CoreCompileInputs.cache
-D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 24 - Parcial [11-11]\Segundo Parcial\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\Archivos.dll
-D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 24 - Parcial [11-11]\Segundo Parcial\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\ref\Archivos.dll
-D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 24 - Parcial [11-11]\Segundo Parcial\20211111-SP - Luciano Agustin Crocco\Archivos\obj\Debug\net5.0\Archivos.pdb

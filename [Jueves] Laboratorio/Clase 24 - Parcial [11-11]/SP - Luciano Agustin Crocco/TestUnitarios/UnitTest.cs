@@ -44,7 +44,7 @@ namespace TestUnitarios
         {
             Juego juego = new Juego(10, "Hola");
             JsonFiler<Juego> gestor = new JsonFiler<Juego>();
-            string path = $"{Environment.CurrentDirectory}\\Hola\\serializar.json";
+            string path = $"F:\\asdsasdaJDJS";
            
            gestor.Guardar(path, juego);
             

@@ -31,19 +31,17 @@ namespace Archivos
         public void Guardar(string archivo, T objeto)
         {
             
+            string aux;
             try
             {
                 StreamWriter sw = new StreamWriter(archivo);
-                string aux;
                 aux = JsonSerializer.Serialize(objeto);
                 sw.WriteLine(aux);
-            }catch(Exception ex)
+                sw.Close();
+            }
+            catch(Exception ex)
             {
                 throw new ErrorArchivosException("Error al guardar el archivo", ex);
-            }
-            finally
-            {
-                sw.Close();
             }
         }
 

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\Segundo Parcial\\20211111-SP - Luciano Agustin Crocco\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\SP - Luciano Agustin Crocco\\20211111-SP - Luciano Agustin Crocco\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\Segundo Parcial\\20211111-SP - Luciano Agustin Crocco\\Entidades\\Entidades.csproj",
+      "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\SP - Luciano Agustin Crocco\\20211111-SP - Luciano Agustin Crocco\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\Segundo Parcial\\20211111-SP - Luciano Agustin Crocco\\Entidades\\obj\\",
+      "outputPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\SP - Luciano Agustin Crocco\\20211111-SP - Luciano Agustin Crocco\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\Segundo Parcial\\20211111-SP - Luciano Agustin Crocco\\Archivos\\Archivos.csproj": {
-              "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\Segundo Parcial\\20211111-SP - Luciano Agustin Crocco\\Archivos\\Archivos.csproj"
+            "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\SP - Luciano Agustin Crocco\\20211111-SP - Luciano Agustin Crocco\\Archivos\\Archivos.csproj": {
+              "projectPath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\SP - Luciano Agustin Crocco\\20211111-SP - Luciano Agustin Crocco\\Archivos\\Archivos.csproj"
             }
           }
         }
