@@ -55,3 +55,32 @@ C:\Users\Lucia\source\repos\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debu
 C:\Users\Lucia\source\repos\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\Entidades.dll
 C:\Users\Lucia\source\repos\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\Entidades.pdb
 C:\Users\Lucia\source\repos\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.genruntimeconfig.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.exe
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.runtimeconfig.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.runtimeconfig.dev.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\ref\20210717-RSP - alumno.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\Entidades.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\Entidades.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\_20210717_RSP___alumno.FrmCarrera.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\_20210717_RSP___alumno.FrmContador.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\_20210717_RSP___alumno.Properties.Resources.resources
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.csproj.GenerateResource.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.csproj.CopyComplete
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\ref\20210717-RSP - alumno.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Jueves] Laboratorio\Clase 22 - Repaso Integrador [04-11]\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.genruntimeconfig.cache

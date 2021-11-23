@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "44n/dA3wqw2JwmKm6oHObO6Q0NsceP4Iywu066ZSzqPhC8dqVTLxdpUD9mSSFtGXgxwPdVgLZusyG2sCe8hepA==",
+  "dgSpecHash": "5NvdNdhOiZkQhbR6IeMaYX+jDtt7UqnjJhb6a3URD6DfzqcgchzGlPa+sK9XZdrIKN/i8TgyZjvVAFu7PzwWRw==",
   "success": true,
-  "projectFilePath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\SP - Luciano Agustin Crocco\\20211111-SP - Luciano Agustin Crocco\\TestUnitarios\\TestUnitarios.csproj",
+  "projectFilePath": "D:\\1. Cursos Programacion\\CSharp_2C_2021\\[Jueves] Laboratorio\\Clase 24 - Parcial [11-11]\\SP - Luciano Agustin Crocco\\TestUnitarios\\TestUnitarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucia\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Lucia\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

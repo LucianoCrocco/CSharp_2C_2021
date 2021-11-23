@@ -67,7 +67,6 @@ namespace Entidades
 
                 }
                 reader.Close();
-                comando.ExecuteNonQuery();
             } 
             catch(Exception ex) {
                 throw new Exception("Error al leer", ex);
