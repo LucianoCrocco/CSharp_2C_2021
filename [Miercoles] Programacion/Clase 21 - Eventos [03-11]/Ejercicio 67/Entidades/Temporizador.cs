@@ -9,7 +9,13 @@ namespace Entidades
     {
         private Task hilo;
         private int intervalo;
+        private CancellationToken cancellationToken;
         public event EncargadoTiempo EventoTiempo;
+
+        public Temporizador(CancellationToken token)
+        {
+            cancellationToken = token;
+        }
 
         public bool Activo
         {
@@ -44,11 +50,14 @@ namespace Entidades
         //La funcion corriendo, ejecutandose en un segundo hilo. Va a ejecutar los metodos asociados al delegado de mi evento, ejecutando el evento en si.
         public void Corriendo()
         {
-            if(this.EventoTiempo is not null)
+            while (!this.cancellationToken.IsCancellationRequested)
             {
-                this.EventoTiempo.Invoke();
+                if (this.EventoTiempo is not null)
+                {
+                    this.EventoTiempo.Invoke();
+                }
+                Thread.Sleep(this.Intervalo);
             }
-            Thread.Sleep(this.Intervalo);
         }
     }
 }

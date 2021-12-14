@@ -15,12 +15,16 @@ namespace Ejercicio_I01___El_relojero
     public partial class FormPrincipal : Form
     {
         Temporizador temporizador;
+        CancellationTokenSource tokenSource;
+        CancellationToken cancellationToken;
         public FormPrincipal()
         {
             InitializeComponent();
-            temporizador = new Temporizador();
+            tokenSource = new CancellationTokenSource();
+            cancellationToken = tokenSource.Token;
+            temporizador = new Temporizador(cancellationToken);
             //Asocio un metodo al delegado que a su vez lo asocia al evento.
-            temporizador.EventoTiempo += ActualizarHora;
+            temporizador.EventoTiempo += AsignarHora;
         }
 
         private void FormPrincipal_Load(object sender, EventArgs e)
@@ -28,14 +32,6 @@ namespace Ejercicio_I01___El_relojero
             //Inicializo mi hilo con sus metodos asociados.
             temporizador.Activo = true;
             temporizador.Intervalo = 1000;
-        }
-
-        public void ActualizarHora()
-        {
-            while(true)
-            {
-                AsignarHora();
-            }
         }
 
         public void AsignarHora()
@@ -48,8 +44,13 @@ namespace Ejercicio_I01___El_relojero
             } 
             else
             {
-                this.lblHora.Text = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
+                lblHora.Text = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
             }
+        }
+
+        private void FormPrincipal_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.tokenSource.Cancel();
         }
     }
 }

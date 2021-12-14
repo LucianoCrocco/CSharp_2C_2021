@@ -1,0 +1,16 @@
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.exe
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.runtimeconfig.json
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.runtimeconfig.dev.json
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ref\ConsolaEventos.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ref\ConsolaEventos.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\Ejercicios Extra\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.genruntimeconfig.cache

@@ -61,7 +61,8 @@ namespace Ejercicio_I01___El_relojero
             this.Controls.Add(this.lblHora);
             this.Controls.Add(this.richTextBox1);
             this.Name = "FormPrincipal";
-            this.Text = "Form1";
+            this.Text = "Reloj";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormPrincipal_FormClosing);
             this.Load += new System.EventHandler(this.FormPrincipal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
