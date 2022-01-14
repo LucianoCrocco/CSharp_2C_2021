@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22f29a04-9c31-41a5-ab88-f199e2e6e104": {
+      "ProjectGuid": "22f29a04-9c31-41a5-ab88-f199e2e6e104",
+      "DisplayName": "Entidades",
+      "ColorIndex": 0
+    },
+    "35f8df12-8f48-4d45-b134-861067942764": {
+      "ProjectGuid": "35f8df12-8f48-4d45-b134-861067942764",
+      "DisplayName": "Ejercicio I01 - El relojero",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -99,3 +99,24 @@ D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Cla
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\ref\Ejercicio 36.dll
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.pdb
 D:\Cursos\2C-2021-programacion_2_laboratorio_2_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.genruntimeconfig.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.csproj.AssemblyReference.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.AssemblyInfoInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.AssemblyInfo.cs
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.csproj.CoreCompileInputs.cache
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\ref\Ejercicio 36.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.exe
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.deps.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.runtimeconfig.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.runtimeconfig.dev.json
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\ref\Ejercicio 36.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\Ejercicio 36.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\Entidades.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\Excepciones.dll
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\Entidades.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\bin\Debug\net5.0\Excepciones.pdb
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.csproj.CopyComplete
+D:\1. Cursos Programacion\CSharp_2C_2021\[Miercoles] Programacion\Clase 15 - Tipos Genericos [13-10]\Ejercicio 49\Ejercicio 36\obj\Debug\net5.0\Ejercicio 36.genruntimeconfig.cache

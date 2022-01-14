@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Entidades;
 using Excepciones;
 
@@ -25,13 +26,14 @@ namespace Ejercicio_36
             Competencia<AutoF1> competenciaF1  = new Competencia<AutoF1>(48, 6, Competencia<AutoF1>.TipoCompetencia.F1);
             Competencia<AutoF1> competenciaF1SinLugar = new Competencia<AutoF1>(48, 1, Competencia<AutoF1>.TipoCompetencia.F1);
             bool aux = competenciaF1SinLugar + a2;
+
             #endregion
 
             #region Agregar vehiculos a la competencia
 
                 #region Testing normal
 
-            Console.WriteLine("-------Agrego AutosF1 a competencia F1-------");
+        Console.WriteLine("-------Agrego AutosF1 a competencia F1-------");
             try
             {
                 if(competencia + a1)
@@ -166,8 +168,6 @@ namespace Ejercicio_36
 
 
             //competenciaF1 + testingAuto;// ->Con este error podriamos sacar la validacion de los ifs dentro del + e ==: ((c.Tipo == TipoCompetencia.F1 && a.GetType() == typeof(AutoF1)) || (c.Tipo == TipoCompetencia.MotoCross && a is MotoCross))
-
-
             //Console.WriteLine(competencia.MostrarDatos());
             //Console.WriteLine(competenciaMotoCross.MostrarDatos());
 
